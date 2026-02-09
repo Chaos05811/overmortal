@@ -1,0 +1,7297 @@
+[
+  {
+    "date": "2025-01-31T16:38:00",
+    "time": "4:38 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 0.0,
+    "g_level": 2,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G2",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset due to Main Stage Breakthrough, Pills (Mostly Epic or Legendary), Respires\u2028Immediate Breakthrough to G2"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-01-31T18:31:00",
+    "time": "6:31 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 3.5,
+    "g_level": 3,
+    "g_percent": 16.3,
+    "years_to_next": 343.0,
+    "hours_to_next": 85,
+    "minutes_to_next": 50,
+    "next_milestone": "G4",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires (Pills = Mostly Epic or Legendary)",
+      "Breakthrough to G3 at 16.3%",
+      "343 Yrs or 85 Hrs 50 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-01T19:10:00",
+    "time": "7:10 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 6.2,
+    "g_level": 4,
+    "g_percent": 21.2,
+    "years_to_next": 397.0,
+    "hours_to_next": 99,
+    "minutes_to_next": 17,
+    "next_milestone": "G4",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires (Pills = Mostly Epic or Legendary)",
+      "Breakthrough to G4 at 21.2%",
+      "397 Yrs or 99 Hrs or 17 Min"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-02T19:21:00",
+    "time": "7:21 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 8.2,
+    "g_level": 4,
+    "g_percent": 96.0,
+    "years_to_next": 19.68,
+    "hours_to_next": 4,
+    "minutes_to_next": 55,
+    "next_milestone": "G5",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respire",
+      "Almost Breakthrough to G4 (currently at 96%)",
+      "19.68 Yrs or 4 Hrs 55 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-03T01:54:00",
+    "time": "1:54 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 8.3,
+    "g_level": 5,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G5",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-03T20:05:00",
+    "time": "8:05 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 9.9,
+    "g_level": 5,
+    "g_percent": 53.6,
+    "years_to_next": 256.32,
+    "hours_to_next": 64,
+    "minutes_to_next": 19,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 53.6%\u2028256.32 Ys or 64 Hrs 19 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-04T23:27:00",
+    "time": "11:27 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 11.6,
+    "g_level": 6,
+    "g_percent": null,
+    "years_to_next": 595.0,
+    "hours_to_next": 148,
+    "minutes_to_next": 45,
+    "next_milestone": "G7",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G6",
+      "595 Yrs or 148 Hrs 45 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-05T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 13.2,
+    "g_level": 6,
+    "g_percent": 53.0,
+    "years_to_next": 300.0,
+    "hours_to_next": 75,
+    "minutes_to_next": null,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 53%",
+      "300 Yrs or 75 Hrs to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-06T18:35:00",
+    "time": "6:35 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 14.7,
+    "g_level": 6,
+    "g_percent": 98.3,
+    "years_to_next": 10.9,
+    "hours_to_next": 2,
+    "minutes_to_next": 43,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 98.3%",
+      "10.9 Yrs or 2 Hrs 43 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-07T08:50:00",
+    "time": "8:50 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 15.1,
+    "g_level": 7,
+    "g_percent": 9.0,
+    "years_to_next": 629.8,
+    "hours_to_next": 157,
+    "minutes_to_next": 27,
+    "next_milestone": "G7",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G7 at 9%",
+      "629.8 Yrs or 157 and 27 Min"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-07T19:25:00",
+    "time": "7:25 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 16.6,
+    "g_level": 7,
+    "g_percent": 46.4,
+    "years_to_next": 371.0,
+    "hours_to_next": 92,
+    "minutes_to_next": 45,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 46.4%",
+      "371 Yrs or 92 Hrs 45 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-08T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 18.4,
+    "g_level": 7,
+    "g_percent": 93.9,
+    "years_to_next": 42.43,
+    "hours_to_next": 10,
+    "minutes_to_next": 36,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "Used 6 Myrion Fruit- don\u2019t remember the time",
+      "After Reset, Pills, Respires",
+      "G7 at 93.9%",
+      "42.43 Yrs or 10 Hrs 36 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-09T02:16:00",
+    "time": "2:16 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 18.7,
+    "g_level": 8,
+    "g_percent": null,
+    "years_to_next": 754.0,
+    "hours_to_next": 188,
+    "minutes_to_next": 30,
+    "next_milestone": "G9",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G8",
+      "754 Yrs or 188 Hrs 30 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-09T18:41:00",
+    "time": "6:41 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 20.4,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 434.68,
+    "hours_to_next": 108,
+    "minutes_to_next": 40,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "434.68 Yrs or 108 Hrs 40 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-10T19:53:00",
+    "time": "7:53 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 22.2,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 114.0,
+    "hours_to_next": 28,
+    "minutes_to_next": 30,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "114 Yrs or 28 Hrs 30 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-11T17:51:00",
+    "time": "5:51 PM",
+    "stage_name": null,
+    "stage_percent": 22.8,
+    "g_level": 9,
+    "g_percent": null,
+    "years_to_next": 837.24,
+    "hours_to_next": 209,
+    "minutes_to_next": 19,
+    "next_milestone": "G10",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G9",
+      "837.24 Yrs or 209 Hrs 19 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-11T20:14:00",
+    "time": "8:14 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 23.9,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 641.7,
+    "hours_to_next": 160,
+    "minutes_to_next": 5,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "641.7 Yrs or 160 Hrs 25.5 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-12T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 25.5,
+    "g_level": 9,
+    "g_percent": 58.8,
+    "years_to_next": 345.1,
+    "hours_to_next": 86,
+    "minutes_to_next": 15,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 58.8%",
+      "345.1 Yrs or 86 Hrs 15 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-13T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 27.3,
+    "g_level": 9,
+    "g_percent": 98.7,
+    "years_to_next": 15.8,
+    "hours_to_next": 4,
+    "minutes_to_next": null,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 98.7%",
+      "15.8 Yrs or 4 Hrs to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-13T21:43:00",
+    "time": "9:43 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 27.4,
+    "g_level": 10,
+    "g_percent": 0.8,
+    "years_to_next": 903.0,
+    "hours_to_next": 225,
+    "minutes_to_next": 45,
+    "next_milestone": "G11",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G10 at 0.8%",
+      "903 Yrs or 225 Hrs 45 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-14T19:42:00",
+    "time": "7:42 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 29.3,
+    "g_level": 10,
+    "g_percent": 38.7,
+    "years_to_next": 551.6,
+    "hours_to_next": 137,
+    "minutes_to_next": 54,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 38.7%",
+      "551.6 Yrs or 137 Hrs 54 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-15T20:20:00",
+    "time": "8:20 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 31.1,
+    "g_level": 10,
+    "g_percent": 74.8,
+    "years_to_next": 226.6,
+    "hours_to_next": 56,
+    "minutes_to_next": 38,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 74.8%",
+      "226.6 Yrs or 56 Hrs 38 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-16T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 32.4,
+    "g_level": 11,
+    "g_percent": 15.9,
+    "years_to_next": 778.37,
+    "hours_to_next": 194,
+    "minutes_to_next": 35,
+    "next_milestone": "G12",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G11 at 15.9%",
+      "778.37 Yrs or 194 Hrs 35 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-17T19:01:00",
+    "time": "7:01 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 35.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 427.448,
+    "hours_to_next": 106,
+    "minutes_to_next": 2,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "427.448 Yrs or 106 Hrs 52.2 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-18T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 37.1,
+    "g_level": 11,
+    "g_percent": 89.0,
+    "years_to_next": 100.785,
+    "hours_to_next": 29,
+    "minutes_to_next": 12,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 89%",
+      "100.785 Yrs or 29 Hrs 12 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-19T17:41:00",
+    "time": "5:41 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 37.9,
+    "g_level": 12,
+    "g_percent": 2.9,
+    "years_to_next": 939.2,
+    "hours_to_next": 234,
+    "minutes_to_next": 14,
+    "next_milestone": "G13",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G12 at 2.9%",
+      "939.2 Yrs or 234 Hrs 14 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-19T19:15:00",
+    "time": "7:15 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 39.1,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 719.0,
+    "hours_to_next": 179,
+    "minutes_to_next": 45,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "719 Yrs or 179 Hrs 45 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-20T19:18:00",
+    "time": "7:18 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 41.4,
+    "g_level": 12,
+    "g_percent": 65.7,
+    "years_to_next": 332.0,
+    "hours_to_next": 83,
+    "minutes_to_next": null,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 65.7%",
+      "332 Yrs or 83 Hrs to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-21T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Early",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-22T10:24:00",
+    "time": "10:24 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 43.8,
+    "g_level": 13,
+    "g_percent": null,
+    "years_to_next": 933.71,
+    "hours_to_next": 233,
+    "minutes_to_next": 26,
+    "next_milestone": "G14",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G13",
+      "933.71 Yrs or 233 Hrs 26 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-23T10:46:00",
+    "time": "10:46 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 46.3,
+    "g_level": 13,
+    "g_percent": 49.5,
+    "years_to_next": 516.5,
+    "hours_to_next": 129,
+    "minutes_to_next": null,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 49.5%",
+      "516.5 Yrs or 129 Hrs"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-24T03:43:00",
+    "time": "3:43 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 47.7,
+    "g_level": 13,
+    "g_percent": 74.0,
+    "years_to_next": 263.12,
+    "hours_to_next": 65,
+    "minutes_to_next": 47,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 74%",
+      "263.12 Yrs or 65 Hrs 47 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-24T19:13:00",
+    "time": "7:13 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 49.7,
+    "g_level": 14,
+    "g_percent": 7.0,
+    "years_to_next": 973.96,
+    "hours_to_next": 243,
+    "minutes_to_next": 30,
+    "next_milestone": "G15",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G14 at 7%",
+      "973.96 Yrs 243 Hrs 30 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-25T20:38:00",
+    "time": "8:38 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 51.5,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 655.75,
+    "hours_to_next": 164,
+    "minutes_to_next": null,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "655.75 Yrs or 164 Hrs to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-26T18:52:00",
+    "time": "6:52 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 53.5,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 338.53,
+    "hours_to_next": 84,
+    "minutes_to_next": 38,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "338.53 Yrs or 84 Hrs 38 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-27T21:46:00",
+    "time": "9:46 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 55.9,
+    "g_level": 15,
+    "g_percent": null,
+    "years_to_next": 1028.86,
+    "hours_to_next": 257,
+    "minutes_to_next": 13,
+    "next_milestone": "G16",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G15",
+      "1028.86 Yrs or 257 Hrs 13 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-02-28T20:33:00",
+    "time": "8:33 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 57.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 728.4,
+    "hours_to_next": 182,
+    "minutes_to_next": 6,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "728.4 Yrs or 182 Hrs 6 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-01T19:24:00",
+    "time": "7:24 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 59.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 392.4,
+    "hours_to_next": 98,
+    "minutes_to_next": 6,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "392.4 Yrs or 98 Hrs 6 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-02T19:14:00",
+    "time": "7:14 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 62.2,
+    "g_level": 16,
+    "g_percent": 1.6,
+    "years_to_next": 1138.9,
+    "hours_to_next": 284,
+    "minutes_to_next": 5,
+    "next_milestone": "G17",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G16 at 1.6%",
+      "1138.9 Yrs or 284 Hrs 43.5 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-03T19:24:00",
+    "time": "7:24 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 64.6,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 744.3,
+    "hours_to_next": 186,
+    "minutes_to_next": null,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "744.3 Yrs or 186 Hrs to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-04T19:24:00",
+    "time": "7:24 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 66.6,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 407.0,
+    "hours_to_next": 101,
+    "minutes_to_next": 45,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "407 Yrs or 101 Hrs 45 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-05T18:48:00",
+    "time": "6:48 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 68.5,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 81.83,
+    "hours_to_next": 22,
+    "minutes_to_next": 57,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "81.83 Yrs or 22 Hrs 57 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-06T13:52:00",
+    "time": "1:52 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 69.1,
+    "g_level": 17,
+    "g_percent": null,
+    "years_to_next": 1177.125,
+    "hours_to_next": 294,
+    "minutes_to_next": 17,
+    "next_milestone": "G18",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G17",
+      "1177.125 Yrs or 294 Hrs 17 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-06T19:57:00",
+    "time": "7:57 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 70.4,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 971.0,
+    "hours_to_next": 242,
+    "minutes_to_next": 45,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "971 Yrs or 242 Hrs 45 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-07T21:54:00",
+    "time": "9:54 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 72.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 661.63,
+    "hours_to_next": 165,
+    "minutes_to_next": 24,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "661.63 Yrs or 165 Hrs 24 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-08T20:37:00",
+    "time": "8:37 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 74.4,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 305.0,
+    "hours_to_next": 76,
+    "minutes_to_next": 15,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "305 Yrs or 76 Hrs 15 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-09T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 76.2,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 8.24,
+    "hours_to_next": 2,
+    "minutes_to_next": 3,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "8.24 Yrs or 2 Hrs 3 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-10T01:26:00",
+    "time": "1:26 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 76.4,
+    "g_level": 18,
+    "g_percent": null,
+    "years_to_next": 1211.3,
+    "hours_to_next": 302,
+    "minutes_to_next": 50,
+    "next_milestone": "G19",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G18",
+      "1211.3 Yrs or 302 hrs 50 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-10T19:07:00",
+    "time": "7:07 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 78.2,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 917.0,
+    "hours_to_next": 229,
+    "minutes_to_next": 15,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "917 Yrs or 229 Hrs 15 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-11T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Early",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "??? Yrs or  ?? Hrs ?? Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-12T19:24:00",
+    "time": "7:24 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 81.8,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 343.41,
+    "hours_to_next": 86,
+    "minutes_to_next": 6,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "343.41 Yrs  or 86 Hrs 6 MIin to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-13T19:30:00",
+    "time": "7:30 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 83.5,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 58.6,
+    "hours_to_next": 14,
+    "minutes_to_next": 39,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "58.6 Yrs or 14 Hrs 39 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-14T02:04:00",
+    "time": "2:04 AM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 83.9,
+    "g_level": 19,
+    "g_percent": null,
+    "years_to_next": 1260.31,
+    "hours_to_next": 315,
+    "minutes_to_next": null,
+    "next_milestone": "G20",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G19 \u20281260.31 Yrs or 315 Hrs  to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-14T18:42:00",
+    "time": "6:42 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 85.6,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 985.0,
+    "hours_to_next": 246,
+    "minutes_to_next": 15,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "985 Yrs or 246 Hrs 15 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-15T19:05:00",
+    "time": "7:05 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 87.8,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 643.24,
+    "hours_to_next": 160,
+    "minutes_to_next": 49,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Pills, Reset, Respires",
+      "643.24 Yrs or 160 Hrs 49 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-16T18:48:00",
+    "time": "6:48 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 89.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 340.33,
+    "hours_to_next": 85,
+    "minutes_to_next": 5,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Pills, Reset, Respires",
+      "340.33 Yrs or 85 Hrs 5 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-17T19:18:00",
+    "time": "7:18 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 91.8,
+    "g_level": 20,
+    "g_percent": 2.6,
+    "years_to_next": 1278.58,
+    "hours_to_next": 319,
+    "minutes_to_next": 39,
+    "next_milestone": "Celestial Middle",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G20 at 2.6%",
+      "1278.58 Yrs or 319 Hrs 39 Min to Breakthrough to Celestial Middle (1304 Yrs Just After Breakthrough)"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-18T19:28:00",
+    "time": "7:28 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 94.0,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 959.0,
+    "hours_to_next": 239,
+    "minutes_to_next": 45,
+    "next_milestone": "Celestial Middle",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "959 Yrs or 239 Hrs 45 Min to Breakthrough to Celestial Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-19T19:21:00",
+    "time": "7:21 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 96.0,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 644.0,
+    "hours_to_next": 161,
+    "minutes_to_next": null,
+    "next_milestone": "Celestial Middle",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "644 Yrs or 161 Hrs to Breakthrough to Celestial Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-20T19:51:00",
+    "time": "7:51 PM",
+    "stage_name": "Celestial Early",
+    "stage_percent": 98.0,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 313.0,
+    "hours_to_next": 78,
+    "minutes_to_next": 15,
+    "next_milestone": "Celestial Middle",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "313 Yrs or 78 Hrs 15 Min to Breakthrough to Celestial Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-21T19:26:00",
+    "time": "7:26 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 0.1,
+    "g_level": 1,
+    "g_percent": 6.0,
+    "years_to_next": 276.6,
+    "hours_to_next": 69,
+    "minutes_to_next": 9,
+    "next_milestone": "G2",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to Celestial Middle G1 at 6%",
+      "276.6 Yrs or 69 Hrs 9 Min to G2"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-22T18:58:00",
+    "time": "6:58 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 1.6,
+    "g_level": 2,
+    "g_percent": 7.2,
+    "years_to_next": 345.62,
+    "hours_to_next": 86,
+    "minutes_to_next": 24,
+    "next_milestone": "G3",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G2 at 7.2%",
+      "345.62 Yrs or 86 Hrs 24 Min to G3"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-23T01:26:00",
+    "time": "1:26 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 3.6,
+    "g_level": 3,
+    "g_percent": null,
+    "years_to_next": 393.16,
+    "hours_to_next": 98,
+    "minutes_to_next": 17,
+    "next_milestone": "G4",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respire and Few Hrs from 8:20 PM",
+      "Breakthrough to G3",
+      "393.16 Yrs or 98 Hrs 17 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-24T19:20:00",
+    "time": "7:20 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 5.1,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 94.16,
+    "hours_to_next": 24,
+    "minutes_to_next": 32,
+    "next_milestone": "G4",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "94.16 Yrs or 24 Hrs 32 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-25T20:11:00",
+    "time": "8:11 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 6.6,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 330.966,
+    "hours_to_next": 82,
+    "minutes_to_next": 44,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "330.966 Yrs or 82 Hrs 44 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-26T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Middle",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "???.?? Yrs or ?? Hrs ?? Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-27T19:50:00",
+    "time": "7:50 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 9.7,
+    "g_level": 5,
+    "g_percent": 5.0,
+    "years_to_next": 312.0,
+    "hours_to_next": 78,
+    "minutes_to_next": null,
+    "next_milestone": "G6",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G5 at 5%",
+      "312 Yrs or 78 Hrs to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-28T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Middle",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "???.?? Yrs or ?? Hrs ?? Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-29T04:01:00",
+    "time": "4:01 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 11.4,
+    "g_level": 6,
+    "g_percent": 3.8,
+    "years_to_next": 639.283,
+    "hours_to_next": 159,
+    "minutes_to_next": 49,
+    "next_milestone": "G7",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G6 at 3.8%",
+      "639.283 Yrs or 159 Hrs 49 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-29T19:03:00",
+    "time": "7:03 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 12.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 406.114,
+    "hours_to_next": 101,
+    "minutes_to_next": 32,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "406.114 Yrs or 101 Hrs 32 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-30T18:51:00",
+    "time": "6:51 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 14.2,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 108.747,
+    "hours_to_next": 27,
+    "minutes_to_next": 11,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "108.747 Yrs or 27 Hrs 11 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-31T10:59:00",
+    "time": "10:59 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 14.9,
+    "g_level": 7,
+    "g_percent": 3.1,
+    "years_to_next": 698.682,
+    "hours_to_next": 174,
+    "minutes_to_next": 40,
+    "next_milestone": "G8",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G7 at 3.1%",
+      "698.682 Yrs or 174 Hrs 40 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-03-31T19:28:00",
+    "time": "7:28 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 16.1,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 481.1,
+    "hours_to_next": 120,
+    "minutes_to_next": 17,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "481.1 Yrs or 120 Hrs 17 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-01T20:10:00",
+    "time": "8:10 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 17.6,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 178.0,
+    "hours_to_next": 44,
+    "minutes_to_next": 31,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "178 Yrs or 44 Hrs 31 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-02T19:58:00",
+    "time": "7:58 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 19.2,
+    "g_level": 8,
+    "g_percent": 14.1,
+    "years_to_next": 670.892,
+    "hours_to_next": 167,
+    "minutes_to_next": 43,
+    "next_milestone": "G9",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G8 at 14.1%",
+      "670.892 Yrs or 167 Hrs 43 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-03T20:50:00",
+    "time": "8:50 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 20.8,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 374.399,
+    "hours_to_next": 93,
+    "minutes_to_next": 36,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "374.399 Yrs or 93 Hrs 36 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-04T22:25:00",
+    "time": "10:25 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 22.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 89.442,
+    "hours_to_next": 22,
+    "minutes_to_next": 21,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "89.442 Yrs or 22 Hrs 21 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-05T12:43:00",
+    "time": "12:43 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 22.8,
+    "g_level": 9,
+    "g_percent": null,
+    "years_to_next": 854.607,
+    "hours_to_next": 213,
+    "minutes_to_next": 39,
+    "next_milestone": "G10",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G9",
+      "854.607 Yrs or 213 Hrs 39 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-05T18:42:00",
+    "time": "6:42 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 23.9,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 658.39,
+    "hours_to_next": 164,
+    "minutes_to_next": 36,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "658.39 Yrs or 164 Hrs 36 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-06T20:05:00",
+    "time": "8:05 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 25.5,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 349.429,
+    "hours_to_next": 87,
+    "minutes_to_next": 21,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "349.429 Yrs or 87 Hrs 21 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-07T23:02:00",
+    "time": "11:02 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 27.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 20.529,
+    "hours_to_next": 5,
+    "minutes_to_next": 8,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "20.529 Yrs or 5 Hrs 8 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-08T10:53:00",
+    "time": "10:53 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 27.6,
+    "g_level": 10,
+    "g_percent": 4.3,
+    "years_to_next": 890.0,
+    "hours_to_next": 222,
+    "minutes_to_next": 30,
+    "next_milestone": "G11",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G10 at 4.3%",
+      "890 Yrs or 222 Hrs 30 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-08T18:40:00",
+    "time": "6:40 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 28.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 688.536,
+    "hours_to_next": 172,
+    "minutes_to_next": 8,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "688.536 Yrs or 172 Hrs 8 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-09T18:54:00",
+    "time": "6:54 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 30.1,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 419.766,
+    "hours_to_next": 104,
+    "minutes_to_next": 56,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "419.766 Yrs or 104 Hrs 56 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-10T18:41:00",
+    "time": "6:41 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 32.0,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 71.426,
+    "hours_to_next": 17,
+    "minutes_to_next": 51,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "71.426 Yrs or 17 Hrs 51 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-11T15:04:00",
+    "time": "3:04 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 32.6,
+    "g_level": 11,
+    "g_percent": 3.7,
+    "years_to_next": 949.43,
+    "hours_to_next": 237,
+    "minutes_to_next": 21,
+    "next_milestone": "G12",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G11 at 3.7%",
+      "949.43 Yrs or 237 Hrs 21 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-11T19:58:00",
+    "time": "7:58 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 33.4,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 800.934,
+    "hours_to_next": 200,
+    "minutes_to_next": 14,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "800.934 Yrs or 200 Hrs 14 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-12T18:58:00",
+    "time": "6:58 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 35.5,
+    "g_level": 11,
+    "g_percent": 58.7,
+    "years_to_next": 407.546,
+    "hours_to_next": 101,
+    "minutes_to_next": 53,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 58.7%",
+      "407.546 Yrs or 101 Hrs 53 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-13T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 37.2,
+    "g_level": 11,
+    "g_percent": 91.2,
+    "years_to_next": 86.921,
+    "hours_to_next": 21,
+    "minutes_to_next": 44,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 91.2%",
+      "86.921 Yrs or 21 Hrs 44 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-14T09:33:00",
+    "time": "9:33 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 37.9,
+    "g_level": 12,
+    "g_percent": null,
+    "years_to_next": 1003.831,
+    "hours_to_next": 250,
+    "minutes_to_next": 57,
+    "next_milestone": "G13",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G12",
+      "1003.831 Yrs or 250 Hrs 57 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-14T19:43:00",
+    "time": "7:43 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 39.1,
+    "g_level": 12,
+    "g_percent": 24.7,
+    "years_to_next": 776.431,
+    "hours_to_next": 194,
+    "minutes_to_next": 6,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 24.7%",
+      "776.431 Yrs or 194 Hrs 6 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-15T19:54:00",
+    "time": "7:54 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 40.7,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 479.292,
+    "hours_to_next": 119,
+    "minutes_to_next": 49,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "479.292 Yrs or 119 Hrs 49 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-16T19:08:00",
+    "time": "7:08 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 42.1,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 226.575,
+    "hours_to_next": 56,
+    "minutes_to_next": 39,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "226.575 Yrs or 56 Hrs 39 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-17T19:03:00",
+    "time": "7:03 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 43.5,
+    "g_level": 13,
+    "g_percent": 2.7,
+    "years_to_next": 1075.524,
+    "hours_to_next": 268,
+    "minutes_to_next": 53,
+    "next_milestone": "G14",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G13 at 2.7%",
+      "1075.524 Yrs or 268 Hrs 53 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-18T19:56:00",
+    "time": "7:56 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 45.0,
+    "g_level": 13,
+    "g_percent": 27.8,
+    "years_to_next": 798.0,
+    "hours_to_next": 199,
+    "minutes_to_next": 30,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 27.8%",
+      "798.0 Yrs or 199 Hrs 30 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-19T19:32:00",
+    "time": "7:32 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 46.6,
+    "g_level": 13,
+    "g_percent": 54.6,
+    "years_to_next": 502.165,
+    "hours_to_next": 125,
+    "minutes_to_next": 32,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 54.6%",
+      "502.165 Yrs or 125 Hrs 32 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-20T18:55:00",
+    "time": "6:55 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 48.1,
+    "g_level": 13,
+    "g_percent": 80.7,
+    "years_to_next": 213.379,
+    "hours_to_next": 53,
+    "minutes_to_next": 21,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 80.7%",
+      "213.379 Yrs or 53 Hrs 21 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-21T20:44:00",
+    "time": "8:44 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 49.5,
+    "g_level": 14,
+    "g_percent": null,
+    "years_to_next": 1099.5,
+    "hours_to_next": 274,
+    "minutes_to_next": 52,
+    "next_milestone": "G15",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G14",
+      "1099.5 Yrs or 274 Hrs 52 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-22T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 51.4,
+    "g_level": 14,
+    "g_percent": 33.5,
+    "years_to_next": 752.574,
+    "hours_to_next": 188,
+    "minutes_to_next": 9,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 33.5%",
+      "752.574 Yrs or 188 Hrs 9 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-23T20:36:00",
+    "time": "8:36 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 52.8,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 486.32,
+    "hours_to_next": 121,
+    "minutes_to_next": 35,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "486.32 Yrs or 121 Hrs 35 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-24T19:55:00",
+    "time": "7:55 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 54.3,
+    "g_level": 14,
+    "g_percent": 82.2,
+    "years_to_next": 212.82,
+    "hours_to_next": 53,
+    "minutes_to_next": 12,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 82.2%",
+      "212.82 Yrs or 53 Hrs 12 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-25T19:57:00",
+    "time": "7:57 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 56.0,
+    "g_level": 15,
+    "g_percent": 7.1,
+    "years_to_next": 1118.53,
+    "hours_to_next": 279,
+    "minutes_to_next": 38,
+    "next_milestone": "G16",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G15 at 7.1%",
+      "1118.53 Yrs or 279 Hrs 38 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-26T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 57.3,
+    "g_level": 15,
+    "g_percent": 27.7,
+    "years_to_next": 862.139,
+    "hours_to_next": 215,
+    "minutes_to_next": 32,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 27.7%",
+      "862.139 Yrs or 215 Hrs 32 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-27T20:52:00",
+    "time": "8:52 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 59.1,
+    "g_level": 15,
+    "g_percent": 54.9,
+    "years_to_next": 537.967,
+    "hours_to_next": 134,
+    "minutes_to_next": 30,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 54.9%",
+      "537.967 Yrs or 134 Hrs 30 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-28T18:46:00",
+    "time": "6:46 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 60.7,
+    "g_level": 15,
+    "g_percent": 78.8,
+    "years_to_next": 252.779,
+    "hours_to_next": 63,
+    "minutes_to_next": 12,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 78.8%",
+      "252.779 Yrs or 63 Hrs 12 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-29T19:42:00",
+    "time": "7:42 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 62.2,
+    "g_level": 16,
+    "g_percent": null,
+    "years_to_next": 1240.686,
+    "hours_to_next": 310,
+    "minutes_to_next": 10,
+    "next_milestone": "G17",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G16",
+      "1240.686 Yrs or 310 Hrs 10 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-04-30T20:16:00",
+    "time": "8:16 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 63.8,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 960.0,
+    "hours_to_next": 240,
+    "minutes_to_next": 0,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "960.0 Yrs or 240 Hrs 0 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-01T18:41:00",
+    "time": "6:41 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 65.3,
+    "g_level": 16,
+    "g_percent": 45.6,
+    "years_to_next": 687.741,
+    "hours_to_next": 171,
+    "minutes_to_next": 56,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 45.6%",
+      "687.741 Yrs or 171 Hrs 56 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-02T18:37:00",
+    "time": "6:37 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 66.8,
+    "g_level": 16,
+    "g_percent": 67.6,
+    "years_to_next": 410.065,
+    "hours_to_next": 102,
+    "minutes_to_next": 31,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 67.6%",
+      "410.065 Yrs or 102 Hrs 31 Min"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-03T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 68.3,
+    "g_level": 16,
+    "g_percent": 88.8,
+    "years_to_next": 141.119,
+    "hours_to_next": 35,
+    "minutes_to_next": 17,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 88.8%",
+      "141.119 Yrs or 35 Hrs 17 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-04T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 69.9,
+    "g_level": 17,
+    "g_percent": 11.4,
+    "years_to_next": 1152.311,
+    "hours_to_next": 288,
+    "minutes_to_next": 5,
+    "next_milestone": "G18",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G17 at 11.4%",
+      "1152.311 Yrs or 288 Hrs 5 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-05T18:59:00",
+    "time": "6:59 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 72.1,
+    "g_level": 17,
+    "g_percent": 41.1,
+    "years_to_next": 765.715,
+    "hours_to_next": 191,
+    "minutes_to_next": 26,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 41.1%",
+      "765.715 Yrs or 191 Hrs 26 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-06T20:12:00",
+    "time": "8:12 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 73.6,
+    "g_level": 17,
+    "g_percent": 62.9,
+    "years_to_next": 482.303,
+    "hours_to_next": 120,
+    "minutes_to_next": 35,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 62.9%",
+      "482.303 Yrs or 120 Hrs 35 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-07T19:32:00",
+    "time": "7:32 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 75.2,
+    "g_level": 17,
+    "g_percent": 84.2,
+    "years_to_next": 203.397,
+    "hours_to_next": 50,
+    "minutes_to_next": 51,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 84.2%",
+      "203.397 Yrs or 50 Hrs 51 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-08T19:19:00",
+    "time": "7:19 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 76.6,
+    "g_level": 18,
+    "g_percent": 4.3,
+    "years_to_next": 1301.689,
+    "hours_to_next": 325,
+    "minutes_to_next": 25,
+    "next_milestone": "G19",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G18 at 4.3%",
+      "1301.689 Yrs or 325 Hrs 25 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-09T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Middle",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "???.?? Yrs or ??? Hrs ?? Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-10T12:00:00",
+    "time": null,
+    "stage_name": "Celestial Middle",
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "???.?? Yrs or ??? Hrs ?? Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-11T01:38:00",
+    "time": "1:38 AM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 79.8,
+    "g_level": 18,
+    "g_percent": 46.2,
+    "years_to_next": 733.214,
+    "hours_to_next": 183,
+    "minutes_to_next": 18,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "G18 at 46.2%",
+      "733.214 Yrs or 183 Hrs 18 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-12T20:36:00",
+    "time": "8:36 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 82.6,
+    "g_level": 18,
+    "g_percent": 83.3,
+    "years_to_next": 226.758,
+    "hours_to_next": 56,
+    "minutes_to_next": 41,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 83.3%",
+      "226.758 Yrs or 56 Hrs 41 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-13T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 84.1,
+    "g_level": 19,
+    "g_percent": 3.1,
+    "years_to_next": 1370.617,
+    "hours_to_next": 342,
+    "minutes_to_next": 39,
+    "next_milestone": "G20",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G19 at 3.1%",
+      "1370.617 Yrs or 342 Hrs 39 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-14T19:00:00",
+    "time": "7:00 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 85.6,
+    "g_level": 19,
+    "g_percent": 21.9,
+    "years_to_next": 1104.273,
+    "hours_to_next": 276,
+    "minutes_to_next": 4,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 21.9%",
+      "1104.273 Yrs or 276 Hrs 4 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-15T21:59:00",
+    "time": "9:59 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 87.2,
+    "g_level": 19,
+    "g_percent": 42.2,
+    "years_to_next": 809.082,
+    "hours_to_next": 202,
+    "minutes_to_next": 16,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 42.2%",
+      "809.082 Yrs- 202 Hrs 16 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-16T20:29:00",
+    "time": "8:29 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 88.8,
+    "g_level": 19,
+    "g_percent": 62.1,
+    "years_to_next": 530.753,
+    "hours_to_next": 132,
+    "minutes_to_next": 41,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 62.1%",
+      "530.753 Yrs or 132 Hrs 41 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-16T18:54:00",
+    "time": "6:54 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 90.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 261.1,
+    "hours_to_next": 65,
+    "minutes_to_next": 16,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "261.10 Yrs or 65 Hrs 16 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-18T19:00:00",
+    "time": "7:00 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 92.2,
+    "g_level": 20,
+    "g_percent": 4.9,
+    "years_to_next": 1382.72,
+    "hours_to_next": 345,
+    "minutes_to_next": 41,
+    "next_milestone": "Celestial Late G1",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires\u2028Breakthrough to G20 at 4.9%\u20281382.72 Yrs or 345 Hrs 41 Min to Celestial Late G1"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-19T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 94.2,
+    "g_level": 20,
+    "g_percent": 29.2,
+    "years_to_next": 1029.151,
+    "hours_to_next": 257,
+    "minutes_to_next": 17,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires\u2028G20 at 29.2%\u20281029.151 Yrs or 257 Hrs 17 Min to Breakthrough Celestial Late G1",
+      "Renaissance age 18 before Eternal, 100K origin by Eternal, 100 Total pulls by Eternal"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-20T18:40:00",
+    "time": "6:40 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 95.7,
+    "g_level": 20,
+    "g_percent": 47.7,
+    "years_to_next": 760.163,
+    "hours_to_next": 190,
+    "minutes_to_next": null,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 47.7%",
+      "760.163 Yrs or 190 Hrs to Breakthrough Celestial Late G1"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-21T19:40:00",
+    "time": "7:40 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 97.3,
+    "g_level": 20,
+    "g_percent": 66.8,
+    "years_to_next": 483.352,
+    "hours_to_next": 120,
+    "minutes_to_next": 50,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 66.8%",
+      "483.352 Yrs or 120 Hrs 50 Min to Breakthrough Celestial Late G1"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-22T18:53:00",
+    "time": "6:53 PM",
+    "stage_name": "Celestial Middle",
+    "stage_percent": 99.0,
+    "g_level": 20,
+    "g_percent": 88.4,
+    "years_to_next": 168.783,
+    "hours_to_next": 42,
+    "minutes_to_next": 12,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 88.4%",
+      "168.783 Yrs or 42 Hrs 12 Min to Breakthrough Celestial Late G1"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-23T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 0.6,
+    "g_level": 1,
+    "g_percent": 36.0,
+    "years_to_next": 214.718,
+    "hours_to_next": 53,
+    "minutes_to_next": 41,
+    "next_milestone": "G2",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to Celestial Late G1 at 36%",
+      "214.718 Yrs or 53 Hrs 41 Min to G2"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-24T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 1.8,
+    "g_level": 2,
+    "g_percent": 15.5,
+    "years_to_next": 352.608,
+    "hours_to_next": 88,
+    "minutes_to_next": 9,
+    "next_milestone": "G3",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G2 at 15.5%",
+      "352.608 Yrs or 88 Hrs 9 Min to G3"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-25T20:34:00",
+    "time": "8:34 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 4.3,
+    "g_level": 3,
+    "g_percent": 42.3,
+    "years_to_next": 278.93,
+    "hours_to_next": 69,
+    "minutes_to_next": 43,
+    "next_milestone": "G4",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G3 at 42.3%",
+      "278.930 Yrs or 69 Hrs 43 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-26T18:54:00",
+    "time": "6:54 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 5.7,
+    "g_level": 4,
+    "g_percent": 2.0,
+    "years_to_next": 581.176,
+    "hours_to_next": 145,
+    "minutes_to_next": 17,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 2%",
+      "581.176 Yrs or 145 Hrs 17 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-27T20:00:00",
+    "time": "8:00 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 6.9,
+    "g_level": 4,
+    "g_percent": 49.2,
+    "years_to_next": 300.101,
+    "hours_to_next": 75,
+    "minutes_to_next": 1,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 49.2%",
+      "300.101 Yrs or 75 Hrs 1 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-28T18:57:00",
+    "time": "6:57 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 8.0,
+    "g_level": 4,
+    "g_percent": 88.3,
+    "years_to_next": 70.04,
+    "hours_to_next": 17,
+    "minutes_to_next": 30,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 88.3%",
+      "70.040 Yrs or 17 Hrs 30 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-29T10:11:00",
+    "time": "10:11 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 8.3,
+    "g_level": 5,
+    "g_percent": 1.6,
+    "years_to_next": 502.498,
+    "hours_to_next": 125,
+    "minutes_to_next": 37,
+    "next_milestone": "G6",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G5 at 1.6%",
+      "502.498 Yrs or 125 Hrs 37 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-29T19:34:00",
+    "time": "7:34 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 9.3,
+    "g_level": 5,
+    "g_percent": 34.8,
+    "years_to_next": 332.706,
+    "hours_to_next": 83,
+    "minutes_to_next": 10,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 34.8%",
+      "332.706 Yrs or 83 Hrs 10 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-30T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 10.7,
+    "g_level": 5,
+    "g_percent": 80.0,
+    "years_to_next": 101.429,
+    "hours_to_next": 25,
+    "minutes_to_next": 21,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 80%",
+      "101.429 Yrs or 25 Hrs 21 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-05-31T20:24:00",
+    "time": "8:24 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 12.0,
+    "g_level": 6,
+    "g_percent": 21.3,
+    "years_to_next": 465.143,
+    "hours_to_next": 116,
+    "minutes_to_next": 17,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 21.3%",
+      "465.143 Yrs or 116 Hrs 17 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-01T19:39:00",
+    "time": "7:39 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 13.6,
+    "g_level": 6,
+    "g_percent": 67.1,
+    "years_to_next": 194.614,
+    "hours_to_next": 48,
+    "minutes_to_next": 39,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 67.1%",
+      "194.614 Yrs or 48 Hrs 39 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-02T20:23:00",
+    "time": "8:23 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 15.4,
+    "g_level": 7,
+    "g_percent": 15.3,
+    "years_to_next": 543.423,
+    "hours_to_next": 135,
+    "minutes_to_next": 51,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 15.3%",
+      "543.423 Yrs or 135 Hrs 51 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-03T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 16.7,
+    "g_level": 7,
+    "g_percent": 49.7,
+    "years_to_next": 322.986,
+    "hours_to_next": 80,
+    "minutes_to_next": 44,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 49.7%",
+      "322.986 Yrs or 80 Hrs 44 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-04T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 18.0,
+    "g_level": 7,
+    "g_percent": 85.2,
+    "years_to_next": 93.954,
+    "hours_to_next": 23,
+    "minutes_to_next": 29,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 85.2%",
+      "93.954 Yrs or 23 Hrs 29 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-05T13:09:00",
+    "time": "1:09 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 18.6,
+    "g_level": 8,
+    "g_percent": 1.0,
+    "years_to_next": 696.297,
+    "hours_to_next": 174,
+    "minutes_to_next": 4,
+    "next_milestone": "G9",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G8 at 1%",
+      "696.297 Yrs or 174 Hrs 4 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-05T18:49:00",
+    "time": "6:49 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 19.5,
+    "g_level": 8,
+    "g_percent": 22.4,
+    "years_to_next": 545.705,
+    "hours_to_next": 136,
+    "minutes_to_next": 25,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 22.4%",
+      "545.705 Yrs or 136 Hrs 25 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-06T18:59:00",
+    "time": "6:59 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 21.0,
+    "g_level": 8,
+    "g_percent": 57.2,
+    "years_to_next": 300.757,
+    "hours_to_next": 75,
+    "minutes_to_next": 11,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 57.2%",
+      "300.757 Yrs or 75 Hrs 11 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-07T18:56:00",
+    "time": "6:56 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 22.7,
+    "g_level": 8,
+    "g_percent": 97.1,
+    "years_to_next": 20.668,
+    "hours_to_next": 5,
+    "minutes_to_next": 10,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 97.1%",
+      "20.668 Yrs or 5 Hrs 10 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-08T00:55:00",
+    "time": "12:55 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 22.9,
+    "g_level": 9,
+    "g_percent": 1.2,
+    "years_to_next": 760.919,
+    "hours_to_next": 190,
+    "minutes_to_next": 13,
+    "next_milestone": "G10",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G9 at 1.2%",
+      "760.919 Yrs or 190 Hrs 13 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-08T18:53:00",
+    "time": "6:53 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 24.0,
+    "g_level": 9,
+    "g_percent": 27.2,
+    "years_to_next": 560.947,
+    "hours_to_next": 140,
+    "minutes_to_next": 14,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 27.2%",
+      "560.947 Yrs or 140 Hrs 14 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-09T20:41:00",
+    "time": "8:41 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 26.0,
+    "g_level": 9,
+    "g_percent": 70.3,
+    "years_to_next": 229.029,
+    "hours_to_next": 57,
+    "minutes_to_next": 15,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 70.3%",
+      "229.029 Yrs or 57 Hrs 15 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-10T19:41:00",
+    "time": "7:41 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 27.4,
+    "g_level": 10,
+    "g_percent": null,
+    "years_to_next": 836.874,
+    "hours_to_next": 209,
+    "minutes_to_next": 13,
+    "next_milestone": "G11",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G10",
+      "836.874 Yrs or 209 Hrs 13 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-11T11:52:00",
+    "time": "11:52 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 32.8,
+    "g_level": 11,
+    "g_percent": 7.1,
+    "years_to_next": 824.044,
+    "hours_to_next": 206,
+    "minutes_to_next": 0,
+    "next_milestone": "G12",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G11 at 7.1%",
+      "824.044 Yrs or 206 Hrs 0 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-11T11:54:00",
+    "time": "11:54 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 37.7,
+    "g_level": 12,
+    "g_percent": null,
+    "years_to_next": 937.207,
+    "hours_to_next": 234,
+    "minutes_to_next": 18,
+    "next_milestone": "G13",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G12",
+      "937.207 Yrs or 234 Hrs 18 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-11T11:55:00",
+    "time": "11:55 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 41.1,
+    "g_level": 12,
+    "g_percent": 61.2,
+    "years_to_next": 363.885,
+    "hours_to_next": 90,
+    "minutes_to_next": 58,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "G12 at 61.2%",
+      "363.885 Yrs or 90 Hrs 58 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-11T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 41.9,
+    "g_level": 12,
+    "g_percent": 79.0,
+    "years_to_next": 196.223,
+    "hours_to_next": 49,
+    "minutes_to_next": 3,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 79%",
+      "196.223 Yrs or 49 Hrs 3 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-12T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 43.6,
+    "g_level": 13,
+    "g_percent": 4.4,
+    "years_to_next": 959.758,
+    "hours_to_next": 239,
+    "minutes_to_next": 56,
+    "next_milestone": "G14",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G13 at 4.4%",
+      "959.758 Yrs or 239 Hrs 56 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-13T20:50:00",
+    "time": "8:50 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 45.0,
+    "g_level": 13,
+    "g_percent": 28.7,
+    "years_to_next": 716.335,
+    "hours_to_next": 179,
+    "minutes_to_next": 5,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 28.7%",
+      "716.335 Yrs or 179 Hrs 5 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-14T20:18:00",
+    "time": "8:18 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 46.4,
+    "g_level": 13,
+    "g_percent": 51.7,
+    "years_to_next": 485.386,
+    "hours_to_next": 121,
+    "minutes_to_next": 20,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 51.7%",
+      "485.386 Yrs or 121 Hrs 20 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-15T19:00:00",
+    "time": "7:00 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 47.9,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 290.0,
+    "hours_to_next": 72,
+    "minutes_to_next": 0,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at ~72.5%",
+      "290.000 Yrs or 72 Hrs 0 Min to G14"
+    ],
+    "is_predicted": true
+  },
+  {
+    "date": "2025-06-16T18:55:00",
+    "time": "6:55 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 49.2,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 97.0,
+    "hours_to_next": 24,
+    "minutes_to_next": 15,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at ~92.7%",
+      "97.000 Yrs or 24 Hrs 15 Min to G14"
+    ],
+    "is_predicted": true
+  },
+  {
+    "date": "2025-06-17T00:14:00",
+    "time": "12:14 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 50.1,
+    "g_level": 14,
+    "g_percent": 13.2,
+    "years_to_next": 893.147,
+    "hours_to_next": 223,
+    "minutes_to_next": 17,
+    "next_milestone": "G15",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G14 at 13.2%",
+      "893.147 Yrs or 223 Hrs 17 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-17T19:23:00",
+    "time": "7:23 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 51.3,
+    "g_level": 14,
+    "g_percent": 32.0,
+    "years_to_next": 699.359,
+    "hours_to_next": 174,
+    "minutes_to_next": 50,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 32%",
+      "699.359 Yrs or 174 Hrs 50 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-18T18:56:00",
+    "time": "6:56 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 52.6,
+    "g_level": 14,
+    "g_percent": 52.6,
+    "years_to_next": 487.667,
+    "hours_to_next": 121,
+    "minutes_to_next": 55,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 52.6%",
+      "487.667 Yrs or 121 Hrs 55 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-19T19:21:00",
+    "time": "7:21 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 54.0,
+    "g_level": 14,
+    "g_percent": 76.2,
+    "years_to_next": 244.884,
+    "hours_to_next": 61,
+    "minutes_to_next": 13,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 76.2%",
+      "244.884 Yrs or 61 Hrs 13 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-20T21:13:00",
+    "time": "9:13 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 55.5,
+    "g_level": 15,
+    "g_percent": null,
+    "years_to_next": 1094.804,
+    "hours_to_next": 273,
+    "minutes_to_next": 42,
+    "next_milestone": "G16",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G15",
+      "1094.804 Yrs or 273 Hrs 42 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-21T20:38:00",
+    "time": "8:38 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 56.9,
+    "g_level": 15,
+    "g_percent": 21.1,
+    "years_to_next": 863.907,
+    "hours_to_next": 215,
+    "minutes_to_next": 58,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 21.1%",
+      "863.907 Yrs or 215 Hrs 58 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-22T19:54:00",
+    "time": "7:54 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 59.1,
+    "g_level": 15,
+    "g_percent": 54.8,
+    "years_to_next": 493.906,
+    "hours_to_next": 123,
+    "minutes_to_next": 28,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 54.8%",
+      "493.906 Yrs or 123 Hrs 28 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-23T19:35:00",
+    "time": "7:35 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 60.0,
+    "g_level": 15,
+    "g_percent": 68.5,
+    "years_to_next": 260.0,
+    "hours_to_next": 65,
+    "minutes_to_next": 0,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 68.5%",
+      "260.000 Yrs or 65 Hrs 0 Min to G16"
+    ],
+    "is_predicted": true
+  },
+  {
+    "date": "2025-06-24T00:15:00",
+    "time": "12:15 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 60.8,
+    "g_level": 15,
+    "g_percent": 80.0,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 80%",
+      "???.??? Yrs or ??? Hrs ?? Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-24T19:29:00",
+    "time": "7:29 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 62.2,
+    "g_level": 16,
+    "g_percent": 1.1,
+    "years_to_next": 1146.945,
+    "hours_to_next": 286,
+    "minutes_to_next": 44,
+    "next_milestone": "G17",
+    "is_breakthrough": true,
+    "notes": [
+      "Breakthrough to G16 at 1.1%",
+      "1146.945 Yrs or 286 Hrs 44 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-25T19:38:00",
+    "time": "7:38 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 63.5,
+    "g_level": 16,
+    "g_percent": 20.7,
+    "years_to_next": 911.314,
+    "hours_to_next": 227,
+    "minutes_to_next": 49,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 20.7%",
+      "911.314 Yrs or 227 Hrs 49 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-26T19:01:00",
+    "time": "7:01 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 64.9,
+    "g_level": 16,
+    "g_percent": 40.3,
+    "years_to_next": 686.262,
+    "hours_to_next": 171,
+    "minutes_to_next": 33,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 40.3%",
+      "686.262 Yrs or 171 Hrs 33 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-29T18:59:00",
+    "time": "6:59 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 70.1,
+    "g_level": 17,
+    "g_percent": 13.7,
+    "years_to_next": 1024.547,
+    "hours_to_next": 256,
+    "minutes_to_next": 28,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 13.7%",
+      "1024.547 Yrs or 256 Hrs 28 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-06-30T19:02:00",
+    "time": "7:02 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 71.5,
+    "g_level": 17,
+    "g_percent": 33.0,
+    "years_to_next": 792.24,
+    "hours_to_next": 198,
+    "minutes_to_next": 3,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 33%",
+      "792.240 Yrs or 198 Hrs 3 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-01T19:59:00",
+    "time": "7:59 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 72.9,
+    "g_level": 17,
+    "g_percent": 53.1,
+    "years_to_next": 554.03,
+    "hours_to_next": 138,
+    "minutes_to_next": 30,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 53.1%",
+      "554.030 Yrs or 138 Hrs 30 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-02T19:06:00",
+    "time": "7:06 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 74.4,
+    "g_level": 17,
+    "g_percent": 73.3,
+    "years_to_next": 313.255,
+    "hours_to_next": 78,
+    "minutes_to_next": 19,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 73.3%",
+      "313.255 Yrs or 78 Hrs 19 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-03T19:07:00",
+    "time": "7:07 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 76.3,
+    "g_level": 18,
+    "g_percent": 0.2,
+    "years_to_next": 1233.923,
+    "hours_to_next": 308,
+    "minutes_to_next": 2,
+    "next_milestone": "G19",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G18 at 0.2%",
+      "1233.923 Yrs or 308 Hrs 2 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-04T19:02:00",
+    "time": "7:02 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 77.8,
+    "g_level": 18,
+    "g_percent": 19.9,
+    "years_to_next": 990.321,
+    "hours_to_next": 247,
+    "minutes_to_next": 33,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 19.9%",
+      "990.321 Yrs or 247 Hrs 33 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-05T18:58:00",
+    "time": "6:58 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 79.9,
+    "g_level": 18,
+    "g_percent": 44.1,
+    "years_to_next": 691.52,
+    "hours_to_next": 172,
+    "minutes_to_next": 17,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 44.1%",
+      "691.520 Yrs or 172 Hrs 17 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-06T19:27:00",
+    "time": "7:27 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 81.3,
+    "g_level": 18,
+    "g_percent": 65.8,
+    "years_to_next": 422.678,
+    "hours_to_next": 105,
+    "minutes_to_next": 21,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 65.8%",
+      "422.678 Yrs or 105 Hrs 21 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-07T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 82.8,
+    "g_level": 18,
+    "g_percent": 85.8,
+    "years_to_next": 173.916,
+    "hours_to_next": 43,
+    "minutes_to_next": 33,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 85.8%",
+      "173.916 Yrs or 43 Hrs 33 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-08T19:53:00",
+    "time": "7:53 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 84.4,
+    "g_level": 19,
+    "g_percent": 6.2,
+    "years_to_next": 1194.97,
+    "hours_to_next": 298,
+    "minutes_to_next": 58,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G19 at 6.2%",
+      "1194.970 Yrs or 298 Hrs 58 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-09T20:04:00",
+    "time": "8:04 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 85.8,
+    "g_level": 19,
+    "g_percent": 23.6,
+    "years_to_next": 972.792,
+    "hours_to_next": 243,
+    "minutes_to_next": 43,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 23.6%",
+      "972.792 Yrs or 243 Hrs 43 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-10T19:00:00",
+    "time": "7:00 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 87.3,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 740.0,
+    "hours_to_next": 185,
+    "minutes_to_next": 0,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at ~45.5%",
+      "740.000 Yrs or 185 Hrs 0 Min to Eternal Early"
+    ],
+    "is_predicted": true
+  },
+  {
+    "date": "2025-07-11T19:00:00",
+    "time": "7:00 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 89.0,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": 510.0,
+    "hours_to_next": 127,
+    "minutes_to_next": 0,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at ~65.5%",
+      "510.000 Yrs or 127 Hrs 0 Min to Eternal Early"
+    ],
+    "is_predicted": true
+  },
+  {
+    "date": "2025-07-12T20:16:00",
+    "time": "8:16 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 90.6,
+    "g_level": 19,
+    "g_percent": 84.5,
+    "years_to_next": 197.658,
+    "hours_to_next": 49,
+    "minutes_to_next": 54,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 84.5%",
+      "197.658 Yrs or 49 Hrs 54 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-13T21:05:00",
+    "time": "9:05 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 92.2,
+    "g_level": 19,
+    "g_percent": 4.4,
+    "years_to_next": 1264.119,
+    "hours_to_next": 316,
+    "minutes_to_next": 14,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 4.4%",
+      "1264.119 Yrs or 316 Hrs 14 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-14T18:57:00",
+    "time": "6:57 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 94.0,
+    "g_level": 19,
+    "g_percent": 26.4,
+    "years_to_next": 973.467,
+    "hours_to_next": 243,
+    "minutes_to_next": 40,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 26.4%",
+      "973.467 Yrs or 243 Hrs 40 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-15T18:37:00",
+    "time": "6:37 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 95.3,
+    "g_level": 19,
+    "g_percent": 45.5,
+    "years_to_next": 720.768,
+    "hours_to_next": 180,
+    "minutes_to_next": 46,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 45.5%",
+      "720.768 Yrs or 180 Hrs 46 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-16T20:15:00",
+    "time": "8:15 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 97.2,
+    "g_level": 19,
+    "g_percent": 66.3,
+    "years_to_next": 445.799,
+    "hours_to_next": 111,
+    "minutes_to_next": 27,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 66.3%",
+      "445.799 Yrs or 111 Hrs 27 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-17T19:35:00",
+    "time": "7:35 PM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 98.9,
+    "g_level": 19,
+    "g_percent": 86.5,
+    "years_to_next": 177.958,
+    "hours_to_next": 44,
+    "minutes_to_next": 59,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 86.5%",
+      "177.958 Yrs or 44 Hrs 59 Min to Eternal Early"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-18T10:47:00",
+    "time": "10:47 AM",
+    "stage_name": "Celestial Late",
+    "stage_percent": 99.4,
+    "g_level": 19,
+    "g_percent": 92.4,
+    "years_to_next": 99.905,
+    "hours_to_next": 24,
+    "minutes_to_next": 58,
+    "next_milestone": "Eternal Early",
+    "is_breakthrough": false,
+    "notes": [
+      "G19 at 92.4%",
+      "99.905 Yrs or 24 Hrs 58 Min to Eternal Early",
+      "As of"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-18T10:50:00",
+    "time": "10:50 AM",
+    "stage_name": null,
+    "stage_percent": null,
+    "g_level": null,
+    "g_percent": null,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": null,
+    "is_breakthrough": false,
+    "notes": [],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-18T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 2.1,
+    "g_level": 2,
+    "g_percent": 33.0,
+    "years_to_next": 49.111,
+    "hours_to_next": 12,
+    "minutes_to_next": 16,
+    "next_milestone": "G3",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G2 at 33%",
+      "49.111 Yrs or 12 Hrs 16 Min to G3"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-20T18:38:00",
+    "time": "6:38 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 5.2,
+    "g_level": 3,
+    "g_percent": 83.7,
+    "years_to_next": 88.287,
+    "hours_to_next": 22,
+    "minutes_to_next": 4,
+    "next_milestone": "G4",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G3 at 83.7%",
+      "88.287 Yrs or 22 Hrs 4 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-21T10:58:00",
+    "time": "10:58 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 5.8,
+    "g_level": 4,
+    "g_percent": 7.0,
+    "years_to_next": 621.617,
+    "hours_to_next": 155,
+    "minutes_to_next": 24,
+    "next_milestone": "G5",
+    "is_breakthrough": true,
+    "notes": [
+      "bt to G4 at 7%",
+      "621.617 Yrs or 155 Hrs 24 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-21T18:59:00",
+    "time": "6:59 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 6.9,
+    "g_level": 4,
+    "g_percent": 49.9,
+    "years_to_next": 348.319,
+    "hours_to_next": 87,
+    "minutes_to_next": 4,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 49.9%",
+      "348.319 Yrs or 87 Hrs 4 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-22T18:36:00",
+    "time": "6:36 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 8.3,
+    "g_level": 5,
+    "g_percent": 0.7,
+    "years_to_next": 733.535,
+    "hours_to_next": 183,
+    "minutes_to_next": 23,
+    "next_milestone": "G6",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G5 at 0.7%",
+      "733.535 Yrs or 183 Hrs 23 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-23T18:38:00",
+    "time": "6:38 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 9.6,
+    "g_level": 5,
+    "g_percent": 44.9,
+    "years_to_next": 406.889,
+    "hours_to_next": 101,
+    "minutes_to_next": 43,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 44.9%",
+      "406.889 Yrs or 101 Hrs 43 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-24T20:13:00",
+    "time": "8:13 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 11.1,
+    "g_level": 5,
+    "g_percent": 94.9,
+    "years_to_next": 37.691,
+    "hours_to_next": 9,
+    "minutes_to_next": 25,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 94.9%",
+      "37.691 Yrs or 9 Hrs 25 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-25T02:13:00",
+    "time": "2:13 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 11.3,
+    "g_level": 6,
+    "g_percent": 0.1,
+    "years_to_next": 860.829,
+    "hours_to_next": 215,
+    "minutes_to_next": 12,
+    "next_milestone": "G7",
+    "is_breakthrough": true,
+    "notes": [
+      "bt to G6 at 0.1%",
+      "860.829 Yrs or 215 Hrs 12 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-25T18:56:00",
+    "time": "6:56 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 12.6,
+    "g_level": 6,
+    "g_percent": 35.9,
+    "years_to_next": 552.656,
+    "hours_to_next": 138,
+    "minutes_to_next": 9,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 35.9%",
+      "552.656 Yrs or 138 Hrs 9 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-26T18:38:00",
+    "time": "6:38 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 14.0,
+    "g_level": 6,
+    "g_percent": 77.1,
+    "years_to_next": 197.32,
+    "hours_to_next": 49,
+    "minutes_to_next": 19,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 77.1%",
+      "197.320 Yrs or 49 Hrs 19 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-27T18:49:00",
+    "time": "6:49 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 15.3,
+    "g_level": 7,
+    "g_percent": 14.3,
+    "years_to_next": 795.232,
+    "hours_to_next": 198,
+    "minutes_to_next": 48,
+    "next_milestone": "G8",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G7 at 14.3%",
+      "795.232 Yrs or 198 Hrs 48 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-28T19:01:00",
+    "time": "7:01 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 17.4,
+    "g_level": 7,
+    "g_percent": 69.4,
+    "years_to_next": 283.655,
+    "hours_to_next": 70,
+    "minutes_to_next": 54,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 69.4%",
+      "283.655 Yrs or 70 Hrs 54 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-29T18:42:00",
+    "time": "6:42 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 18.9,
+    "g_level": 8,
+    "g_percent": 6.8,
+    "years_to_next": 955.484,
+    "hours_to_next": 238,
+    "minutes_to_next": 52,
+    "next_milestone": "G9",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G8 at 6.8%",
+      "955.484 Yrs or 238 Hrs 52 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-30T18:59:00",
+    "time": "6:59 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 20.3,
+    "g_level": 8,
+    "g_percent": 39.8,
+    "years_to_next": 616.885,
+    "hours_to_next": 154,
+    "minutes_to_next": 13,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 39.8%",
+      "616.885 Yrs or 154 Hrs 13 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-07-31T18:55:00",
+    "time": "6:55 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 21.8,
+    "g_level": 8,
+    "g_percent": 75.2,
+    "years_to_next": 254.816,
+    "hours_to_next": 63,
+    "minutes_to_next": 42,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 75.2%",
+      "254.816 Yrs or 63 Hrs 42 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-01T19:14:00",
+    "time": "7:14 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 23.2,
+    "g_level": 9,
+    "g_percent": 9.0,
+    "years_to_next": 1021.657,
+    "hours_to_next": 255,
+    "minutes_to_next": 24,
+    "next_milestone": "G10",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G9 at 9%",
+      "1021.657 Yrs or 255 Hrs 24 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-02T19:07:00",
+    "time": "7:07 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 24.7,
+    "g_level": 9,
+    "g_percent": 41.0,
+    "years_to_next": 662.302,
+    "hours_to_next": 165,
+    "minutes_to_next": 34,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 41%",
+      "662.302 Yrs or 165 Hrs 34 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-03T18:46:00",
+    "time": "6:46 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 26.1,
+    "g_level": 9,
+    "g_percent": 70.7,
+    "years_to_next": 328.957,
+    "hours_to_next": 82,
+    "minutes_to_next": 14,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 70.7%",
+      "328.957 Yrs or 82 Hrs 14 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-04T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 27.8,
+    "g_level": 10,
+    "g_percent": 8.3,
+    "years_to_next": 1120.135,
+    "hours_to_next": 280,
+    "minutes_to_next": 2,
+    "next_milestone": "G11",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G10 at 8.3%",
+      "1120.135 Yrs or 280 Hrs 2 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-05T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 29.4,
+    "g_level": 10,
+    "g_percent": 40.7,
+    "years_to_next": 724.189,
+    "hours_to_next": 181,
+    "minutes_to_next": 2,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 40.7%",
+      "724.189 Yrs or 181 Hrs 2 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-06T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 30.8,
+    "g_level": 10,
+    "g_percent": 68.1,
+    "years_to_next": 388.603,
+    "hours_to_next": 97,
+    "minutes_to_next": 9,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 68.1%",
+      "388.603 Yrs or 97 Hrs 9 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-07T21:03:00",
+    "time": "9:03 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 32.4,
+    "g_level": 10,
+    "g_percent": 99.4,
+    "years_to_next": 6.83,
+    "hours_to_next": 1,
+    "minutes_to_next": 42,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 99.4%",
+      "6.830 Yrs or 1 Hr 42 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-08T19:22:00",
+    "time": "7:22 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 33.9,
+    "g_level": 11,
+    "g_percent": 28.2,
+    "years_to_next": 921.024,
+    "hours_to_next": 230,
+    "minutes_to_next": 15,
+    "next_milestone": "G12",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G11 at 28.2%",
+      "921.024 Yrs or 230 Hrs 15 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-09T19:14:00",
+    "time": "7:14 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 35.5,
+    "g_level": 11,
+    "g_percent": 58.0,
+    "years_to_next": 538.821,
+    "hours_to_next": 134,
+    "minutes_to_next": 42,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 58%",
+      "538.821 Yrs or 134 Hrs 42 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-10T19:09:00",
+    "time": "7:09 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 37.0,
+    "g_level": 11,
+    "g_percent": 86.0,
+    "years_to_next": 179.703,
+    "hours_to_next": 44,
+    "minutes_to_next": 55,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 86%",
+      "179.703 Yrs or 44 Hrs 55 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-11T18:38:00",
+    "time": "6:38 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 38.5,
+    "g_level": 12,
+    "g_percent": 15.2,
+    "years_to_next": 1150.176,
+    "hours_to_next": 287,
+    "minutes_to_next": 32,
+    "next_milestone": "G13",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G12 at 15.2%",
+      "1150.176 Yrs or 287 Hrs 32 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-12T19:10:00",
+    "time": "7:10 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 40.1,
+    "g_level": 12,
+    "g_percent": 43.7,
+    "years_to_next": 763.939,
+    "hours_to_next": 190,
+    "minutes_to_next": 59,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 43.7%",
+      "763.939 Yrs or 190 Hrs 59 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-13T18:37:00",
+    "time": "6:37 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 41.7,
+    "g_level": 12,
+    "g_percent": 71.4,
+    "years_to_next": 387.214,
+    "hours_to_next": 96,
+    "minutes_to_next": 48,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 71.4%",
+      "387.214 Yrs or 96 Hrs 48 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-15T00:31:00",
+    "time": "12:31 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 43.3,
+    "g_level": 12,
+    "g_percent": 99.6,
+    "years_to_next": 5.308,
+    "hours_to_next": 1,
+    "minutes_to_next": 19,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "G12 at 99.6%",
+      "5.308 Yrs or 1 Hr 19 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-15T20:05:00",
+    "time": "8:05 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 44.5,
+    "g_level": 13,
+    "g_percent": 20.3,
+    "years_to_next": 1158.113,
+    "hours_to_next": 289,
+    "minutes_to_next": 31,
+    "next_milestone": "G14",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G13 at 20.3%",
+      "1158.113 Yrs or 289 Hrs 31 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-16T20:32:00",
+    "time": "8:32 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 46.0,
+    "g_level": 13,
+    "g_percent": 45.3,
+    "years_to_next": 794.418,
+    "hours_to_next": 198,
+    "minutes_to_next": 36,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 45.3%",
+      "794.418 Yrs or 198 Hrs 36 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-18T01:23:00",
+    "time": "1:23 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 47.5,
+    "g_level": 13,
+    "g_percent": 69.9,
+    "years_to_next": 437.757,
+    "hours_to_next": 109,
+    "minutes_to_next": 26,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 69.9%",
+      "437.757 Yrs or 109 Hrs 26 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-18T21:23:00",
+    "time": "9:23 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 49.3,
+    "g_level": 14,
+    "g_percent": 0.3,
+    "years_to_next": 1496.837,
+    "hours_to_next": 374,
+    "minutes_to_next": 12,
+    "next_milestone": "G15",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G14 at 0.3%",
+      "1496.837 Yrs or 374 Hrs 12 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-20T17:11:00",
+    "time": "5:11 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 51.3,
+    "g_level": 14,
+    "g_percent": 31.6,
+    "years_to_next": 1027.313,
+    "hours_to_next": 256,
+    "minutes_to_next": 49,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "G14 at 31.6%",
+      "1027.313 Yrs or 256 Hrs 49 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-20T19:20:00",
+    "time": "7:20 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 52.2,
+    "g_level": 14,
+    "g_percent": 46.2,
+    "years_to_next": 807.525,
+    "hours_to_next": 201,
+    "minutes_to_next": 53,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 46.2%",
+      "807.525 Yrs or 201 Hrs 53 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-21T21:10:00",
+    "time": "9:10 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 53.6,
+    "g_level": 14,
+    "g_percent": 70.0,
+    "years_to_next": 443.204,
+    "hours_to_next": 110,
+    "minutes_to_next": 48,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 70%",
+      "443.204 Yrs or 110 Hrs 48 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-22T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 55.0,
+    "g_level": 14,
+    "g_percent": 91.1,
+    "years_to_next": 129.574,
+    "hours_to_next": 32,
+    "minutes_to_next": 23,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 91.1%",
+      "129.574 Yrs or 32 Hrs 23 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-23T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 56.5,
+    "g_level": 15,
+    "g_percent": 14.5,
+    "years_to_next": 1328.715,
+    "hours_to_next": 332,
+    "minutes_to_next": 10,
+    "next_milestone": "G16",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G15 at 14.5%",
+      "1328.715 Yrs or 332 Hrs 10 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-24T23:02:00",
+    "time": "11:02 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 58.0,
+    "g_level": 15,
+    "g_percent": 37.5,
+    "years_to_next": 971.009,
+    "hours_to_next": 242,
+    "minutes_to_next": 45,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 37.5%",
+      "971.009 Yrs or 242 Hrs 45 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-25T20:27:00",
+    "time": "8:27 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 60.1,
+    "g_level": 15,
+    "g_percent": 70.4,
+    "years_to_next": 460.538,
+    "hours_to_next": 115,
+    "minutes_to_next": 8,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 70.4%",
+      "460.538 Yrs or 115 Hrs 8 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-26T21:16:00",
+    "time": "9:16 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 61.8,
+    "g_level": 15,
+    "g_percent": 95.7,
+    "years_to_next": 66.131,
+    "hours_to_next": 16,
+    "minutes_to_next": 31,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 95.7%",
+      "66.131 Yrs or 16 Hrs 31 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-27T10:46:00",
+    "time": "10:46 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 62.1,
+    "g_level": 16,
+    "g_percent": null,
+    "years_to_next": 1646.976,
+    "hours_to_next": 411,
+    "minutes_to_next": 44,
+    "next_milestone": "G17",
+    "is_breakthrough": true,
+    "notes": [
+      "bt to G16",
+      "1646.976 Yrs or 411 Hrs 44 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-27T20:24:00",
+    "time": "8:24 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 63.2,
+    "g_level": 16,
+    "g_percent": 15.9,
+    "years_to_next": 1385.423,
+    "hours_to_next": 346,
+    "minutes_to_next": 21,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 15.9%",
+      "1385.423 Yrs or 346 Hrs 21 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-28T20:44:00",
+    "time": "8:44 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 64.6,
+    "g_level": 16,
+    "g_percent": 35.9,
+    "years_to_next": 1055.782,
+    "hours_to_next": 263,
+    "minutes_to_next": 56,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 35.9%",
+      "1055.782 Yrs or 263 Hrs 56 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-29T20:56:00",
+    "time": "8:56 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 66.1,
+    "g_level": 16,
+    "g_percent": 56.7,
+    "years_to_next": 707.446,
+    "hours_to_next": 176,
+    "minutes_to_next": 51,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 56.7%",
+      "707.446 Yrs or 176 Hrs 51 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-08-30T20:22:00",
+    "time": "8:22 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 67.8,
+    "g_level": 16,
+    "g_percent": 81.0,
+    "years_to_next": 310.739,
+    "hours_to_next": 77,
+    "minutes_to_next": 41,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 81%",
+      "310.739 Yrs or 77 Hrs 41 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-01T21:19:00",
+    "time": "9:19 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 71.3,
+    "g_level": 17,
+    "g_percent": 30.6,
+    "years_to_next": 1156.678,
+    "hours_to_next": 289,
+    "minutes_to_next": 10,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 30.6%",
+      "1156.678 Yrs or 289 Hrs 10 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-02T20:59:00",
+    "time": "8:59 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 72.9,
+    "g_level": 17,
+    "g_percent": 52.1,
+    "years_to_next": 798.004,
+    "hours_to_next": 199,
+    "minutes_to_next": 30,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 52.1%",
+      "798.004 Yrs or 199 Hrs 30 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-03T19:07:00",
+    "time": "7:07 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 74.4,
+    "g_level": 17,
+    "g_percent": 73.3,
+    "years_to_next": 445.597,
+    "hours_to_next": 111,
+    "minutes_to_next": 24,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 73.3%",
+      "445.597 Yrs or 111 Hrs 24 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-04T19:54:00",
+    "time": "7:54 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 76.2,
+    "g_level": 17,
+    "g_percent": 98.2,
+    "years_to_next": 29.637,
+    "hours_to_next": 7,
+    "minutes_to_next": 24,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 98.2%",
+      "29.637 Yrs or 7 Hrs 24 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-05T18:58:00",
+    "time": "6:58 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 77.5,
+    "g_level": 18,
+    "g_percent": 15.4,
+    "years_to_next": 1489.254,
+    "hours_to_next": 372,
+    "minutes_to_next": 18,
+    "next_milestone": "G19",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G18 at 15.4%",
+      "1489.254 Yrs or 372 Hrs 18 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-06T19:43:00",
+    "time": "7:43 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 78.9,
+    "g_level": 18,
+    "g_percent": 33.4,
+    "years_to_next": 1172.561,
+    "hours_to_next": 293,
+    "minutes_to_next": 8,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 33.4%",
+      "1172.561 Yrs or 293 Hrs 8 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-08T19:28:00",
+    "time": "7:28 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 80.6,
+    "g_level": 18,
+    "g_percent": 56.9,
+    "years_to_next": 759.068,
+    "hours_to_next": 189,
+    "minutes_to_next": 46,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 56.9%",
+      "759.068 Yrs or 189 Hrs 46 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-09T18:47:00",
+    "time": "6:47 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 83.6,
+    "g_level": 18,
+    "g_percent": 96.5,
+    "years_to_next": 60.874,
+    "hours_to_next": 15,
+    "minutes_to_next": 13,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 96.5%",
+      "60.874 Yrs or 15 Hrs 13 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-11T01:51:00",
+    "time": "1:51 AM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 85.2,
+    "g_level": 19,
+    "g_percent": 16.8,
+    "years_to_next": 1522.124,
+    "hours_to_next": 380,
+    "minutes_to_next": 31,
+    "next_milestone": "G20",
+    "is_breakthrough": true,
+    "notes": [
+      "bt to G19 at 16.8%",
+      "1522.124 Yrs or 380 Hrs 31 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-11T19:18:00",
+    "time": "7:18 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 86.4,
+    "g_level": 19,
+    "g_percent": 32.2,
+    "years_to_next": 1240.844,
+    "hours_to_next": 310,
+    "minutes_to_next": 12,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 32.2%",
+      "1240.844 Yrs or 310 Hrs 12 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-13T20:27:00",
+    "time": "8:27 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 89.4,
+    "g_level": 19,
+    "g_percent": 69.4,
+    "years_to_next": 560.414,
+    "hours_to_next": 140,
+    "minutes_to_next": 6,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 69.4%",
+      "560.414 Yrs or 140 Hrs 6 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-14T22:03:00",
+    "time": "10:03 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 90.8,
+    "g_level": 19,
+    "g_percent": 87.3,
+    "years_to_next": 231.652,
+    "hours_to_next": 57,
+    "minutes_to_next": 55,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 87.3%",
+      "231.652 Yrs or 57 Hrs 55 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-15T19:25:00",
+    "time": "7:25 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 92.7,
+    "g_level": 20,
+    "g_percent": 11.5,
+    "years_to_next": 1681.372,
+    "hours_to_next": 420,
+    "minutes_to_next": 20,
+    "next_milestone": "Eternal Middle",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G20 at 11.5%",
+      "1681.372 Yrs or 420 Hrs 20 Min to Eternal Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-16T19:05:00",
+    "time": "7:05 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 94.2,
+    "g_level": 20,
+    "g_percent": 28.7,
+    "years_to_next": 1352.336,
+    "hours_to_next": 338,
+    "minutes_to_next": 5,
+    "next_milestone": "Eternal Middle",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 28.7%",
+      "1352.336 Yrs or 338 Hrs 5 Min to Eternal Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-17T19:43:00",
+    "time": "7:43 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 95.7,
+    "g_level": 20,
+    "g_percent": 47.5,
+    "years_to_next": 995.934,
+    "hours_to_next": 248,
+    "minutes_to_next": 59,
+    "next_milestone": "Eternal Middle",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 47.5%",
+      "995.934 Yrs or 248 Hrs 59 Min to Eternal Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-18T22:05:00",
+    "time": "10:05 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 97.2,
+    "g_level": 20,
+    "g_percent": 66.0,
+    "years_to_next": 645.709,
+    "hours_to_next": 161,
+    "minutes_to_next": 26,
+    "next_milestone": "Eternal Middle",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 66%",
+      "645.709 Yrs or 161 Hrs 26 Min to Eternal Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-19T20:27:00",
+    "time": "8:27 PM",
+    "stage_name": "Eternal Early",
+    "stage_percent": 98.6,
+    "g_level": 20,
+    "g_percent": 83.3,
+    "years_to_next": 315.879,
+    "hours_to_next": 78,
+    "minutes_to_next": 58,
+    "next_milestone": "Eternal Middle",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 83.3%",
+      "315.879 Yrs or 78 Hrs 58 Min to Eternal Middle"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-20T19:42:00",
+    "time": "7:42 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 0.1,
+    "g_level": 1,
+    "g_percent": 5.9,
+    "years_to_next": 363.382,
+    "hours_to_next": 90,
+    "minutes_to_next": 50,
+    "next_milestone": "G2",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "bt to G1 at 5.9%",
+      "363.382 Yrs or 90 Hrs 50 Min to G2"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-22T18:50:00",
+    "time": "6:50 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 3.1,
+    "g_level": 4,
+    "g_percent": 85.9,
+    "years_to_next": 69.008,
+    "hours_to_next": 17,
+    "minutes_to_next": 15,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 85.9%",
+      "69.008 Yrs or 17 Hrs 15 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-23T23:30:00",
+    "time": "11:30 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 4.5,
+    "g_level": 3,
+    "g_percent": 48.9,
+    "years_to_next": 289.621,
+    "hours_to_next": 72,
+    "minutes_to_next": 24,
+    "next_milestone": "G4",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G3 at 48.9%",
+      "289.621 Yrs or 72 Hrs 24 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-25T03:34:00",
+    "time": "3:34 AM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 5.7,
+    "g_level": 4,
+    "g_percent": 5.1,
+    "years_to_next": 659.402,
+    "hours_to_next": 164,
+    "minutes_to_next": 51,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "G4 at 5.1%",
+      "659.402 Yrs or 164 Hrs 51 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-26T10:03:00",
+    "time": "10:03 AM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 5.7,
+    "g_level": 4,
+    "g_percent": 60.3,
+    "years_to_next": 275.871,
+    "hours_to_next": 68,
+    "minutes_to_next": 58,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "G4 at 60.3%",
+      "275.871 Yrs or 68 Hrs 58 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-26T18:52:00",
+    "time": "6:52 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 8.1,
+    "g_level": 4,
+    "g_percent": 92.3,
+    "years_to_next": 50.982,
+    "hours_to_next": 12,
+    "minutes_to_next": 44,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 92.3%",
+      "50.982 Yrs or 12 Hrs 44 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-28T03:18:00",
+    "time": "3:18 AM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 9.7,
+    "g_level": 5,
+    "g_percent": 45.3,
+    "years_to_next": 419.787,
+    "hours_to_next": 104,
+    "minutes_to_next": 56,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "G5 at 45.3%",
+      "419.787 Yrs or 104 Hrs 56 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-28T18:37:00",
+    "time": "6:37 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 11.2,
+    "g_level": 5,
+    "g_percent": 96.3,
+    "years_to_next": 28.81,
+    "hours_to_next": 7,
+    "minutes_to_next": 12,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 96.3%",
+      "28.810 Yrs or 7 Hrs 12 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-29T19:59:00",
+    "time": "7:59 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 12.8,
+    "g_level": 6,
+    "g_percent": 42.3,
+    "years_to_next": 520.328,
+    "hours_to_next": 130,
+    "minutes_to_next": 5,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 42.3%",
+      "520.328 Yrs or 130 Hrs 5 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-09-30T20:37:00",
+    "time": "8:37 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 14.1,
+    "g_level": 6,
+    "g_percent": 81.1,
+    "years_to_next": 170.662,
+    "hours_to_next": 42,
+    "minutes_to_next": 39,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 81.1%",
+      "170.662 Yrs or 42 Hrs 39 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-01T18:58:00",
+    "time": "6:58 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 15.4,
+    "g_level": 7,
+    "g_percent": 16.8,
+    "years_to_next": 813.75,
+    "hours_to_next": 203,
+    "minutes_to_next": 26,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 16.8%",
+      "813.750 Yrs or 203 Hrs 26 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-02T19:35:00",
+    "time": "7:35 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 16.9,
+    "g_level": 7,
+    "g_percent": 56.1,
+    "years_to_next": 429.0,
+    "hours_to_next": 107,
+    "minutes_to_next": 15,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 56.1%",
+      "429.000 Yrs or 107 Hrs 15 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-03T19:43:00",
+    "time": "7:43 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 18.1,
+    "g_level": 7,
+    "g_percent": 87.9,
+    "years_to_next": 118.356,
+    "hours_to_next": 29,
+    "minutes_to_next": 35,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G7 at 87.9%",
+      "118.356 Yrs or 29 Hrs 35 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-04T20:19:00",
+    "time": "8:19 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 19.4,
+    "g_level": 8,
+    "g_percent": 19.5,
+    "years_to_next": 870.034,
+    "hours_to_next": 217,
+    "minutes_to_next": 30,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 19.5%",
+      "870.034 Yrs or 217 Hrs 30 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-05T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 20.8,
+    "g_level": 8,
+    "g_percent": 51.7,
+    "years_to_next": 522.666,
+    "hours_to_next": 130,
+    "minutes_to_next": 40,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 51.7%",
+      "522.666 Yrs or 130 Hrs 40 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-06T18:53:00",
+    "time": "6:53 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 22.4,
+    "g_level": 8,
+    "g_percent": 90.7,
+    "years_to_next": 101.056,
+    "hours_to_next": 25,
+    "minutes_to_next": 15,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G8 at 90.7%",
+      "101.056 Yrs or 25 Hrs 15 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-07T22:47:00",
+    "time": "10:47 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 23.7,
+    "g_level": 9,
+    "g_percent": 20.4,
+    "years_to_next": 942.198,
+    "hours_to_next": 235,
+    "minutes_to_next": 33,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 20.4%",
+      "942.198 Yrs or 235 Hrs 33 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-08T21:39:00",
+    "time": "9:39 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 25.0,
+    "g_level": 9,
+    "g_percent": 48.8,
+    "years_to_next": 606.711,
+    "hours_to_next": 151,
+    "minutes_to_next": 41,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 48.8%",
+      "606.711 Yrs or 151 Hrs 41 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-09T20:51:00",
+    "time": "8:51 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 26.2,
+    "g_level": 9,
+    "g_percent": 74.4,
+    "years_to_next": 300.504,
+    "hours_to_next": 75,
+    "minutes_to_next": 7,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 74.4%",
+      "300.504 Yrs or 75 Hrs 7 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-10T19:09:00",
+    "time": "7:09 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 27.4,
+    "g_level": 9,
+    "g_percent": 99.6,
+    "years_to_next": 5.272,
+    "hours_to_next": 1,
+    "minutes_to_next": 19,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 99.6%",
+      "5.272 Yrs or 1 Hr 19 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-11T18:55:00",
+    "time": "6:55 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 28.6,
+    "g_level": 10,
+    "g_percent": 24.9,
+    "years_to_next": 966.085,
+    "hours_to_next": 241,
+    "minutes_to_next": 31,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 24.9%",
+      "966.085 Yrs or 241 Hrs 31 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-12T21:43:00",
+    "time": "9:43 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 30.0,
+    "g_level": 10,
+    "g_percent": 51.6,
+    "years_to_next": 622.454,
+    "hours_to_next": 155,
+    "minutes_to_next": 37,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 51.6%",
+      "622.454 Yrs or 155 Hrs 37 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-13T20:55:00",
+    "time": "8:55 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 31.5,
+    "g_level": 10,
+    "g_percent": 81.0,
+    "years_to_next": 244.501,
+    "hours_to_next": 61,
+    "minutes_to_next": 7,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 81.0%",
+      "244.501 Yrs or 61 Hrs 7 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-14T22:57:00",
+    "time": "10:57 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 32.8,
+    "g_level": 11,
+    "g_percent": 0.0,
+    "years_to_next": 0.0,
+    "hours_to_next": 0,
+    "minutes_to_next": 0,
+    "next_milestone": "G11",
+    "is_breakthrough": true,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "Breakthrough to G11 at 0.0%",
+      "0.000 Yrs or 0 Hrs 0 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-15T22:34:00",
+    "time": "10:34 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 33.9,
+    "g_level": 11,
+    "g_percent": 28.1,
+    "years_to_next": 980.603,
+    "hours_to_next": 245,
+    "minutes_to_next": 9,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 28.1%",
+      "980.603 Yrs or 245 Hrs 9 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-16T22:45:00",
+    "time": "10:45 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 35.4,
+    "g_level": 11,
+    "g_percent": 55.9,
+    "years_to_next": 600.418,
+    "hours_to_next": 150,
+    "minutes_to_next": 6,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 55.9%",
+      "600.418 Yrs or 150 Hrs 6 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-17T18:38:00",
+    "time": "6:38 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 36.5,
+    "g_level": 11,
+    "g_percent": 77.7,
+    "years_to_next": 303.541,
+    "hours_to_next": 75,
+    "minutes_to_next": 53,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 77.7%",
+      "303.541 Yrs or 75 Hrs 53 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-18T21:06:00",
+    "time": "9:06 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 37.8,
+    "g_level": 12,
+    "g_percent": 2.2,
+    "years_to_next": 1406.712,
+    "hours_to_next": 351,
+    "minutes_to_next": 41,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 2.2%",
+      "1406.712 Yrs or 351 Hrs 41 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-19T19:07:00",
+    "time": "7:07 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 39.0,
+    "g_level": 12,
+    "g_percent": 23.1,
+    "years_to_next": 1100.177,
+    "hours_to_next": 275,
+    "minutes_to_next": 2,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 23.1%",
+      "1100.177 Yrs or 275 Hrs 2 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-20T18:34:00",
+    "time": "6:34 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 40.4,
+    "g_level": 12,
+    "g_percent": 47.5,
+    "years_to_next": 751.207,
+    "hours_to_next": 187,
+    "minutes_to_next": 48,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 47.5%",
+      "751.207 Yrs or 187 Hrs 48 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-21T19:15:00",
+    "time": "7:15 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 41.6,
+    "g_level": 12,
+    "g_percent": 69.8,
+    "years_to_next": 432.393,
+    "hours_to_next": 108,
+    "minutes_to_next": 6,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 69.8%",
+      "432.393 Yrs or 108 Hrs 6 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-22T18:48:00",
+    "time": "6:48 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 42.9,
+    "g_level": 12,
+    "g_percent": 92.4,
+    "years_to_next": 107.813,
+    "hours_to_next": 26,
+    "minutes_to_next": 57,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 92.4%",
+      "107.813 Yrs or 26 Hrs 57 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-23T21:46:00",
+    "time": "9:46 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 44.3,
+    "g_level": 13,
+    "g_percent": 16.1,
+    "years_to_next": 1279.565,
+    "hours_to_next": 319,
+    "minutes_to_next": 53,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 16.1%",
+      "1279.565 Yrs or 319 Hrs 53 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-24T21:48:00",
+    "time": "9:48 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 45.7,
+    "g_level": 13,
+    "g_percent": 39.5,
+    "years_to_next": 923.406,
+    "hours_to_next": 230,
+    "minutes_to_next": 51,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 39.5%",
+      "923.406 Yrs or 230 Hrs 51 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-25T19:32:00",
+    "time": "7:32 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 46.9,
+    "g_level": 13,
+    "g_percent": 59.2,
+    "years_to_next": 621.845,
+    "hours_to_next": 155,
+    "minutes_to_next": 27,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 59.2%",
+      "621.845 Yrs or 155 Hrs 27 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-26T19:10:00",
+    "time": "7:10 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 48.1,
+    "g_level": 13,
+    "g_percent": 80.7,
+    "years_to_next": 289.173,
+    "hours_to_next": 72,
+    "minutes_to_next": 17,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G13 at 80.7%",
+      "289.173 Yrs or 72 Hrs 17 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-27T22:27:00",
+    "time": "10:27 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 49.5,
+    "g_level": 14,
+    "g_percent": 3.2,
+    "years_to_next": 1501.708,
+    "hours_to_next": 375,
+    "minutes_to_next": 25,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 3.2%",
+      "1501.708 Yrs or 375 Hrs 25 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-29T21:34:00",
+    "time": "9:34 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 52.2,
+    "g_level": 14,
+    "g_percent": 46.0,
+    "years_to_next": 837.877,
+    "hours_to_next": 209,
+    "minutes_to_next": 28,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 46.0%",
+      "837.877 Yrs or 209 Hrs 28 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-30T19:28:00",
+    "time": "7:28 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 53.5,
+    "g_level": 14,
+    "g_percent": 67.5,
+    "years_to_next": 504.679,
+    "hours_to_next": 126,
+    "minutes_to_next": 10,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 67.5%",
+      "504.679 Yrs or 126 Hrs 10 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-10-31T19:18:00",
+    "time": "7:18 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 54.8,
+    "g_level": 14,
+    "g_percent": 88.1,
+    "years_to_next": 184.34,
+    "hours_to_next": 46,
+    "minutes_to_next": 5,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 88.1%",
+      "184.340 Yrs or 46 Hrs 5 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-01T20:39:00",
+    "time": "8:39 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 56.0,
+    "g_level": 15,
+    "g_percent": 7.8,
+    "years_to_next": 1522.693,
+    "hours_to_next": 380,
+    "minutes_to_next": 40,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 7.8%",
+      "1522.693 Yrs or 380 Hrs 40 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-02T19:32:00",
+    "time": "7:32 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 57.2,
+    "g_level": 15,
+    "g_percent": 26.4,
+    "years_to_next": 1215.405,
+    "hours_to_next": 303,
+    "minutes_to_next": 51,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 26.4%",
+      "1215.405 Yrs or 303 Hrs 51 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-03T18:44:00",
+    "time": "6:44 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 58.9,
+    "g_level": 15,
+    "g_percent": 51.5,
+    "years_to_next": 788.544,
+    "hours_to_next": 197,
+    "minutes_to_next": 8,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 51.5%",
+      "788.544 Yrs or 197 Hrs 8 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-04T18:43:00",
+    "time": "6:43 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 60.1,
+    "g_level": 15,
+    "g_percent": 70.1,
+    "years_to_next": 485.602,
+    "hours_to_next": 121,
+    "minutes_to_next": 24,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 70.1%",
+      "485.602 Yrs or 121 Hrs 24 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-05T19:49:00",
+    "time": "7:49 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 61.4,
+    "g_level": 15,
+    "g_percent": 89.0,
+    "years_to_next": 179.487,
+    "hours_to_next": 44,
+    "minutes_to_next": 52,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G15 at 89.0%",
+      "179.487 Yrs or 44 Hrs 52 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-06T20:37:00",
+    "time": "8:37 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 62.7,
+    "g_level": 16,
+    "g_percent": 8.6,
+    "years_to_next": 1577.222,
+    "hours_to_next": 394,
+    "minutes_to_next": 18,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 8.6%",
+      "1577.222 Yrs or 394 Hrs 18 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-07T19:35:00",
+    "time": "7:35 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 64.0,
+    "g_level": 16,
+    "g_percent": 27.7,
+    "years_to_next": 1247.147,
+    "hours_to_next": 311,
+    "minutes_to_next": 47,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 27.7%",
+      "1247.147 Yrs or 311 Hrs 47 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-09T00:28:00",
+    "time": "12:28 AM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 65.4,
+    "g_level": 16,
+    "g_percent": 47.4,
+    "years_to_next": 907.438,
+    "hours_to_next": 226,
+    "minutes_to_next": 52,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 47.4%",
+      "907.438 Yrs or 226 Hrs 52 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-10T20:16:00",
+    "time": "8:16 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 67.6,
+    "g_level": 16,
+    "g_percent": 79.2,
+    "years_to_next": 358.299,
+    "hours_to_next": 89,
+    "minutes_to_next": 34,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 79.2%",
+      "358.299 Yrs or 89 Hrs 34 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-11T21:34:00",
+    "time": "9:34 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 68.9,
+    "g_level": 16,
+    "g_percent": 97.6,
+    "years_to_next": 40.63,
+    "hours_to_next": 10,
+    "minutes_to_next": 9,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G16 at 97.6%",
+      "40.630 Yrs or 10 Hrs 9 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-12T20:02:00",
+    "time": "8:02 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 70.2,
+    "g_level": 17,
+    "g_percent": 15.5,
+    "years_to_next": 1498.807,
+    "hours_to_next": 374,
+    "minutes_to_next": 42,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 15.5%",
+      "1498.807 Yrs or 374 Hrs 42 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-13T18:40:00",
+    "time": "6:40 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 71.5,
+    "g_level": 17,
+    "g_percent": 32.7,
+    "years_to_next": 1185.555,
+    "hours_to_next": 296,
+    "minutes_to_next": 23,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 32.7%",
+      "1185.555 Yrs or 296 Hrs 23 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-13T18:42:00",
+    "time": "6:42 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 76.4,
+    "g_level": 18,
+    "g_percent": 1.2,
+    "years_to_next": 1835.874,
+    "hours_to_next": 458,
+    "minutes_to_next": 58,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 1.2%",
+      "1835.874 Yrs or 458 Hrs 58 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-14T19:14:00",
+    "time": "7:14 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 77.6,
+    "g_level": 18,
+    "g_percent": 17.3,
+    "years_to_next": 1537.739,
+    "hours_to_next": 384,
+    "minutes_to_next": 26,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 17.3%",
+      "1537.739 Yrs or 384 Hrs 26 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-15T20:53:00",
+    "time": "8:53 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 79.0,
+    "g_level": 18,
+    "g_percent": 35.5,
+    "years_to_next": 1199.27,
+    "hours_to_next": 299,
+    "minutes_to_next": 49,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 35.5%",
+      "1199.270 Yrs or 299 Hrs 49 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-16T19:26:00",
+    "time": "7:26 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 80.2,
+    "g_level": 18,
+    "g_percent": 51.9,
+    "years_to_next": 893.402,
+    "hours_to_next": 223,
+    "minutes_to_next": 21,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 51.9%",
+      "893.402 Yrs or 223 Hrs 21 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-16T19:28:00",
+    "time": "7:28 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 91.6,
+    "g_level": 19,
+    "g_percent": 97.4,
+    "years_to_next": 51.141,
+    "hours_to_next": 12,
+    "minutes_to_next": 47,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "after myrion fruits",
+      "G19 at 97.4%",
+      "51.141 Yrs or 12 Hrs 47 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-17T22:18:00",
+    "time": "10:18 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 93.0,
+    "g_level": 20,
+    "g_percent": 14.2,
+    "years_to_next": 1720.24,
+    "hours_to_next": 430,
+    "minutes_to_next": 3,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 14.2%",
+      "1720.240 Yrs or 430 Hrs 3 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-18T20:01:00",
+    "time": "8:01 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 94.2,
+    "g_level": 20,
+    "g_percent": 28.8,
+    "years_to_next": 1427.573,
+    "hours_to_next": 356,
+    "minutes_to_next": 53,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 28.8%",
+      "1427.573 Yrs or 356 Hrs 53 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-20T08:43:00",
+    "time": "8:43 AM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 95.8,
+    "g_level": 20,
+    "g_percent": 48.6,
+    "years_to_next": 1031.939,
+    "hours_to_next": 257,
+    "minutes_to_next": 59,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "G20 at 48.6%",
+      "1031.939 Yrs or 257 Hrs 59 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-21T17:59:00",
+    "time": "5:59 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 97.1,
+    "g_level": 20,
+    "g_percent": 65.0,
+    "years_to_next": 702.163,
+    "hours_to_next": 175,
+    "minutes_to_next": 32,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "G20 at 65.0%",
+      "702.163 Yrs or 175 Hrs 32 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-21T18:41:00",
+    "time": "6:41 PM",
+    "stage_name": "Eternal Middle",
+    "stage_percent": 97.9,
+    "g_level": 20,
+    "g_percent": 74.4,
+    "years_to_next": 510.169,
+    "hours_to_next": 127,
+    "minutes_to_next": 32,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 74.4%",
+      "510.169 Yrs or 127 Hrs 32 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-24T10:09:00",
+    "time": "10:09 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 1.2,
+    "g_level": 1,
+    "g_percent": 79.6,
+    "years_to_next": 92.029,
+    "hours_to_next": 23,
+    "minutes_to_next": 0,
+    "next_milestone": "G2",
+    "is_breakthrough": false,
+    "notes": [
+      "G1 at 79.6%",
+      "92.029 Yrs or 23 Hrs 0 Min to G2"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-25T06:08:00",
+    "time": "6:08 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 2.1,
+    "g_level": 2,
+    "g_percent": 29.8,
+    "years_to_next": 401.813,
+    "hours_to_next": 100,
+    "minutes_to_next": 27,
+    "next_milestone": "G3",
+    "is_breakthrough": false,
+    "notes": [
+      "G2 at 29.8%",
+      "401.813 Yrs or 100 Hrs 27 Min to G3"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-25T19:58:00",
+    "time": "7:58 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 2.9,
+    "g_level": 2,
+    "g_percent": 71.5,
+    "years_to_next": 163.338,
+    "hours_to_next": 40,
+    "minutes_to_next": 50,
+    "next_milestone": "G3",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G2 at 71.5%",
+      "163.338 Yrs or 40 Hrs 50 Min to G3"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-27T00:39:00",
+    "time": "12:39 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 4.0,
+    "g_level": 3,
+    "g_percent": 25.3,
+    "years_to_next": 381.146,
+    "hours_to_next": 95,
+    "minutes_to_next": 17,
+    "next_milestone": "G4",
+    "is_breakthrough": false,
+    "notes": [
+      "G3 at 25.3%",
+      "381.146 Yrs or 95 Hrs 17 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-28T03:41:00",
+    "time": "3:41 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 5.1,
+    "g_level": 3,
+    "g_percent": 79.3,
+    "years_to_next": 105.573,
+    "hours_to_next": 26,
+    "minutes_to_next": 23,
+    "next_milestone": "G4",
+    "is_breakthrough": false,
+    "notes": [
+      "G3 at 79.3%",
+      "105.573 Yrs or 26 Hrs 23 Min to G4"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-11-29T20:33:00",
+    "time": "8:33 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 7.2,
+    "g_level": 4,
+    "g_percent": 59.3,
+    "years_to_next": 256.615,
+    "hours_to_next": 64,
+    "minutes_to_next": 9,
+    "next_milestone": "G5",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G4 at 59.3%",
+      "256.615 Yrs or 64 Hrs 9 Min to G5"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-01T12:23:00",
+    "time": "12:23 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 8.7,
+    "g_level": 5,
+    "g_percent": 14.6,
+    "years_to_next": 593.883,
+    "hours_to_next": 148,
+    "minutes_to_next": 28,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "G5 at 14.6%",
+      "593.883 Yrs or 148 Hrs 28 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-01T23:51:00",
+    "time": "11:51 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 9.5,
+    "g_level": 5,
+    "g_percent": 39.8,
+    "years_to_next": 418.69,
+    "hours_to_next": 104,
+    "minutes_to_next": 40,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 39.8%",
+      "418.690 Yrs or 104 Hrs 40 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-02T19:59:00",
+    "time": "7:59 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 10.8,
+    "g_level": 5,
+    "g_percent": 83.8,
+    "years_to_next": 112.901,
+    "hours_to_next": 28,
+    "minutes_to_next": 14,
+    "next_milestone": "G6",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G5 at 83.8%",
+      "112.901 Yrs or 28 Hrs 14 Min to G6"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-03T19:20:00",
+    "time": "7:20 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 12.0,
+    "g_level": 6,
+    "g_percent": 21.0,
+    "years_to_next": 641.075,
+    "hours_to_next": 160,
+    "minutes_to_next": 16,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 21.0%",
+      "641.075 Yrs or 160 Hrs 16 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-04T19:43:00",
+    "time": "7:43 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 13.1,
+    "g_level": 6,
+    "g_percent": 52.5,
+    "years_to_next": 385.363,
+    "hours_to_next": 96,
+    "minutes_to_next": 20,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 52.5%",
+      "385.363 Yrs or 96 Hrs 20 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-05T21:05:00",
+    "time": "9:05 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 14.4,
+    "g_level": 6,
+    "g_percent": 87.9,
+    "years_to_next": 98.58,
+    "hours_to_next": 24,
+    "minutes_to_next": 39,
+    "next_milestone": "G7",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G6 at 87.9%",
+      "98.580 Yrs or 24 Hrs 39 Min to G7"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-08T15:52:00",
+    "time": "3:52 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 17.0,
+    "g_level": 7,
+    "g_percent": 58.8,
+    "years_to_next": 363.113,
+    "hours_to_next": 90,
+    "minutes_to_next": 46,
+    "next_milestone": "G8",
+    "is_breakthrough": false,
+    "notes": [
+      "G7 at 58.8%",
+      "363.113 Yrs or 90 Hrs 46 Min to G8"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-10T01:32:00",
+    "time": "1:32 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 18.8,
+    "g_level": 8,
+    "g_percent": 3.8,
+    "years_to_next": 936.498,
+    "hours_to_next": 234,
+    "minutes_to_next": 7,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "G8 at 3.8%",
+      "936.498 Yrs or 234 Hrs 7 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-11T14:07:00",
+    "time": "2:07 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 20.4,
+    "g_level": 8,
+    "g_percent": 42.4,
+    "years_to_next": 559.025,
+    "hours_to_next": 139,
+    "minutes_to_next": 45,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "G8 at 42.4%",
+      "559.025 Yrs or 139 Hrs 45 Min to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-12T11:15:00",
+    "time": "11:15 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 21.4,
+    "g_level": 8,
+    "g_percent": 67.6,
+    "years_to_next": null,
+    "hours_to_next": null,
+    "minutes_to_next": null,
+    "next_milestone": "G9",
+    "is_breakthrough": false,
+    "notes": [
+      "G8 at 67.6%",
+      "Unknown Years to G9"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-13T17:45:00",
+    "time": "5:45 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 22.8,
+    "g_level": 9,
+    "g_percent": 0.2,
+    "years_to_next": 1061.929,
+    "hours_to_next": 265,
+    "minutes_to_next": 29,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "G9 at 0.2%",
+      "1061.929 Yrs or 265 Hrs 29 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-13T17:45:00",
+    "time": "5:45 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 22.8,
+    "g_level": 9,
+    "g_percent": 0.2,
+    "years_to_next": 1061.929,
+    "hours_to_next": 265,
+    "minutes_to_next": 29,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 0.2%",
+      "1061.929 Yrs or 265 Hrs 29 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-14T22:18:00",
+    "time": "10:18 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 25.9,
+    "g_level": 9,
+    "g_percent": 66.6,
+    "years_to_next": 354.461,
+    "hours_to_next": 88,
+    "minutes_to_next": 36,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 66.6%",
+      "354.461 Yrs or 88 Hrs 36 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-15T19:11:00",
+    "time": "7:11 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 26.9,
+    "g_level": 9,
+    "g_percent": 88.2,
+    "years_to_next": 124.846,
+    "hours_to_next": 31,
+    "minutes_to_next": 13,
+    "next_milestone": "G10",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G9 at 88.2%",
+      "124.846 Yrs or 31 Hrs 13 Min to G10"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-16T20:44:00",
+    "time": "8:44 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 28.2,
+    "g_level": 10,
+    "g_percent": 17.0,
+    "years_to_next": 958.044,
+    "hours_to_next": 239,
+    "minutes_to_next": 31,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 17.0%",
+      "958.044 Yrs or 239 Hrs 31 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-17T20:49:00",
+    "time": "8:49 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 29.5,
+    "g_level": 10,
+    "g_percent": 41.2,
+    "years_to_next": 678.839,
+    "hours_to_next": 169,
+    "minutes_to_next": 42,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G10 at 41.2%",
+      "678.839 Yrs or 169 Hrs 42 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-19T13:48:00",
+    "time": "1:48 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 31.0,
+    "g_level": 10,
+    "g_percent": 71.9,
+    "years_to_next": 324.141,
+    "hours_to_next": 81,
+    "minutes_to_next": 2,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "G10 at 71.9%",
+      "324.141 Yrs or 81 Hrs 2 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-20T09:18:00",
+    "time": "9:18 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 32.0,
+    "g_level": 10,
+    "g_percent": 92.1,
+    "years_to_next": 91.455,
+    "hours_to_next": 22,
+    "minutes_to_next": 51,
+    "next_milestone": "G11",
+    "is_breakthrough": false,
+    "notes": [
+      "G10 at 92.1%",
+      "91.455 Yrs or 22 Hrs 51 Min to G11"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-20T20:22:00",
+    "time": "8:22 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 32.8,
+    "g_level": 11,
+    "g_percent": 7.2,
+    "years_to_next": 1135.325,
+    "hours_to_next": 283,
+    "minutes_to_next": 49,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 7.2%",
+      "1135.325 Yrs or 283 Hrs 49 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-22T12:15:00",
+    "time": "12:15 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 35.0,
+    "g_level": 11,
+    "g_percent": 48.3,
+    "years_to_next": 632.711,
+    "hours_to_next": 158,
+    "minutes_to_next": 10,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "G11 at 48.3%",
+      "632.711 Yrs or 158 Hrs 10 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-23T21:34:00",
+    "time": "9:34 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 36.9,
+    "g_level": 11,
+    "g_percent": 84.9,
+    "years_to_next": 184.194,
+    "hours_to_next": 46,
+    "minutes_to_next": 3,
+    "next_milestone": "G12",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G11 at 84.9%",
+      "184.194 Yrs or 46 Hrs 3 Min to G12"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-25T11:49:00",
+    "time": "11:49 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 38.3,
+    "g_level": 12,
+    "g_percent": 11.3,
+    "years_to_next": 1148.748,
+    "hours_to_next": 287,
+    "minutes_to_next": 11,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "G12 at 11.3%",
+      "1148.748 Yrs or 287 Hrs 11 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-26T13:24:00",
+    "time": "1:24 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 39.4,
+    "g_level": 12,
+    "g_percent": 30.6,
+    "years_to_next": 898.185,
+    "hours_to_next": 224,
+    "minutes_to_next": 33,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "G12 at 30.6%",
+      "898.185 Yrs or 224 Hrs 33 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-27T13:40:00",
+    "time": "1:40 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 40.6,
+    "g_level": 12,
+    "g_percent": 51.9,
+    "years_to_next": 622.423,
+    "hours_to_next": 155,
+    "minutes_to_next": 36,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "G12 at 51.9%",
+      "622.423 Yrs or 155 Hrs 36 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-27T20:45:00",
+    "time": "8:45 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 41.2,
+    "g_level": 12,
+    "g_percent": 63.4,
+    "years_to_next": 472.592,
+    "hours_to_next": 118,
+    "minutes_to_next": 9,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 63.4%",
+      "472.592 Yrs or 118 Hrs 9 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-28T23:04:00",
+    "time": "11:04 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 42.5,
+    "g_level": 12,
+    "g_percent": 85.9,
+    "years_to_next": 181.48,
+    "hours_to_next": 45,
+    "minutes_to_next": 22,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 85.9%",
+      "181.480 Yrs or 45 Hrs 22 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-28T23:11:00",
+    "time": "11:11 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 42.9,
+    "g_level": 12,
+    "g_percent": 92.7,
+    "years_to_next": 94.804,
+    "hours_to_next": 23,
+    "minutes_to_next": 42,
+    "next_milestone": "G13",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G12 at 92.7%",
+      "94.804 Yrs or 23 Hrs 42 Min to G13"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2025-12-30T00:57:00",
+    "time": "12:57 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 44.3,
+    "g_level": 13,
+    "g_percent": 17.1,
+    "years_to_next": 1145.244,
+    "hours_to_next": 286,
+    "minutes_to_next": 18,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 17.1%",
+      "1145.244 Yrs or 286 Hrs 18 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-01T14:00:00",
+    "time": "2:00 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 46.9,
+    "g_level": 13,
+    "g_percent": 60.0,
+    "years_to_next": 553.033,
+    "hours_to_next": 138,
+    "minutes_to_next": 15,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 60.0%",
+      "553.033 Yrs or 138 Hrs 15 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-02T10:44:00",
+    "time": "10:44 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 47.9,
+    "g_level": 13,
+    "g_percent": 76.1,
+    "years_to_next": 329.625,
+    "hours_to_next": 82,
+    "minutes_to_next": 24,
+    "next_milestone": "G14",
+    "is_breakthrough": false,
+    "notes": [
+      "G13 at 76.1%",
+      "329.625 Yrs or 82 Hrs 24 Min to G14"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-03T12:35:00",
+    "time": "12:35 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 49.8,
+    "g_level": 14,
+    "g_percent": 7.4,
+    "years_to_next": 1322.681,
+    "hours_to_next": 330,
+    "minutes_to_next": 40,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "G14 at 7.4%",
+      "1322.681 Yrs or 330 Hrs 40 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-04T00:30:00",
+    "time": "12:30 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 50.5,
+    "g_level": 14,
+    "g_percent": 19.9,
+    "years_to_next": 1143.809,
+    "hours_to_next": 285,
+    "minutes_to_next": 57,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "G14 at 19.9%",
+      "1143.809 Yrs or 285 Hrs 57 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-05T12:30:00",
+    "time": "12:30 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 52.1,
+    "g_level": 14,
+    "g_percent": 45.4,
+    "years_to_next": 779.788,
+    "hours_to_next": 194,
+    "minutes_to_next": 56,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "G14 at 45.4%",
+      "779.788 Yrs or 194 Hrs 56 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-06T18:26:00",
+    "time": "6:26 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 53.2,
+    "g_level": 14,
+    "g_percent": 63.0,
+    "years_to_next": 528.536,
+    "hours_to_next": 132,
+    "minutes_to_next": 8,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "G14 at 63.0%",
+      "528.536 Yrs or 132 Hrs 8 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-06T18:34:00",
+    "time": "6:34 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 54.0,
+    "g_level": 14,
+    "g_percent": 75.8,
+    "years_to_next": 346.189,
+    "hours_to_next": 86,
+    "minutes_to_next": 32,
+    "next_milestone": "G15",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G14 at 75.8%",
+      "346.189 Yrs or 86 Hrs 32 Min to G15"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-08T12:27:00",
+    "time": "12:27 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 55.5,
+    "g_level": 15,
+    "g_percent": 0.6,
+    "years_to_next": 1511.701,
+    "hours_to_next": 377,
+    "minutes_to_next": 55,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 0.6%",
+      "1511.701 Yrs or 377 Hrs 55 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-09T17:07:00",
+    "time": "5:07 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 56.8,
+    "g_level": 15,
+    "g_percent": 19.1,
+    "years_to_next": 1229.272,
+    "hours_to_next": 307,
+    "minutes_to_next": 19,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 19.1%",
+      "1229.272 Yrs or 307 Hrs 19 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-10T12:23:00",
+    "time": "12:23 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 57.9,
+    "g_level": 15,
+    "g_percent": 35.9,
+    "years_to_next": 973.973,
+    "hours_to_next": 243,
+    "minutes_to_next": 29,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 35.9%",
+      "973.973 Yrs or 243 Hrs 29 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-11T10:26:00",
+    "time": "10:26 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 58.8,
+    "g_level": 15,
+    "g_percent": 50.6,
+    "years_to_next": 751.732,
+    "hours_to_next": 187,
+    "minutes_to_next": 56,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 50.6%",
+      "751.732 Yrs or 187 Hrs 56 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-12T12:55:00",
+    "time": "12:55 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 60.0,
+    "g_level": 15,
+    "g_percent": 67.5,
+    "years_to_next": 493.929,
+    "hours_to_next": 123,
+    "minutes_to_next": 29,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 67.5%",
+      "493.929 Yrs or 123 Hrs 29 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-13T08:26:00",
+    "time": "8:26 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 60.9,
+    "g_level": 15,
+    "g_percent": 82.2,
+    "years_to_next": 270.299,
+    "hours_to_next": 67,
+    "minutes_to_next": 34,
+    "next_milestone": "G16",
+    "is_breakthrough": false,
+    "notes": [
+      "G15 at 82.2%",
+      "270.299 Yrs or 67 Hrs 34 Min to G16"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-14T10:13:00",
+    "time": "10:13 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 62.4,
+    "g_level": 16,
+    "g_percent": 4.0,
+    "years_to_next": 1547.728,
+    "hours_to_next": 386,
+    "minutes_to_next": 56,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 4.0%",
+      "1547.728 Yrs or 386 Hrs 56 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-15T14:34:00",
+    "time": "2:34 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 63.6,
+    "g_level": 16,
+    "g_percent": 21.6,
+    "years_to_next": 1264.402,
+    "hours_to_next": 316,
+    "minutes_to_next": 6,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 21.6%",
+      "1264.402 Yrs or 316 Hrs 6 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-16T10:31:00",
+    "time": "10:31 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 64.6,
+    "g_level": 16,
+    "g_percent": 35.6,
+    "years_to_next": 1038.678,
+    "hours_to_next": 259,
+    "minutes_to_next": 40,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 35.6%",
+      "1038.678 Yrs or 259 Hrs 40 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-17T12:34:00",
+    "time": "12:34 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 65.7,
+    "g_level": 16,
+    "g_percent": 51.7,
+    "years_to_next": 778.108,
+    "hours_to_next": 194,
+    "minutes_to_next": 31,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 51.7%",
+      "778.108 Yrs or 194 Hrs 31 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-18T11:52:00",
+    "time": "11:52 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 67.1,
+    "g_level": 16,
+    "g_percent": 71.8,
+    "years_to_next": 454.802,
+    "hours_to_next": 113,
+    "minutes_to_next": 42,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 71.8%",
+      "454.802 Yrs or 113 Hrs 42 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-19T08:26:00",
+    "time": "8:26 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 68.2,
+    "g_level": 16,
+    "g_percent": 87.3,
+    "years_to_next": 204.426,
+    "hours_to_next": 51,
+    "minutes_to_next": 6,
+    "next_milestone": "G17",
+    "is_breakthrough": false,
+    "notes": [
+      "G16 at 87.3%",
+      "204.426 Yrs or 51 Hrs 6 Min to G17"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-20T14:06:00",
+    "time": "2:06 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 69.8,
+    "g_level": 17,
+    "g_percent": 9.3,
+    "years_to_next": 1503.635,
+    "hours_to_next": 375,
+    "minutes_to_next": 54,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "G17 at 9.3%",
+      "1503.635 Yrs or 375 Hrs 54 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-21T17:12:00",
+    "time": "5:12 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 71.0,
+    "g_level": 17,
+    "g_percent": 26.2,
+    "years_to_next": 1224.312,
+    "hours_to_next": 306,
+    "minutes_to_next": 4,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "G17 at 26.2%",
+      "1224.312 Yrs or 306 Hrs 4 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-23T08:46:00",
+    "time": "8:46 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 72.7,
+    "g_level": 17,
+    "g_percent": 49.5,
+    "years_to_next": 831.621,
+    "hours_to_next": 207,
+    "minutes_to_next": 54,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "G17 at 49.5%",
+      "831.621 Yrs or 207 Hrs 54 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-23T21:28:00",
+    "time": "9:28 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 73.8,
+    "g_level": 17,
+    "g_percent": 65.9,
+    "years_to_next": 560.747,
+    "hours_to_next": 140,
+    "minutes_to_next": 11,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 65.9%",
+      "560.747 Yrs or 140 Hrs 11 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-24T14:47:00",
+    "time": "2:47 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 74.6,
+    "g_level": 17,
+    "g_percent": 75.7,
+    "years_to_next": 399.414,
+    "hours_to_next": 99,
+    "minutes_to_next": 51,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "G17 at 75.7%",
+      "399.414 Yrs or 99 Hrs 51 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-25T22:05:00",
+    "time": "10:05 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 76.1,
+    "g_level": 17,
+    "g_percent": 97.4,
+    "years_to_next": 42.346,
+    "hours_to_next": 10,
+    "minutes_to_next": 35,
+    "next_milestone": "G18",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G17 at 97.4%",
+      "42.346 Yrs or 10 Hrs 35 Min to G18"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-26T21:49:00",
+    "time": "9:49 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 77.2,
+    "g_level": 18,
+    "g_percent": 12.1,
+    "years_to_next": 1527.339,
+    "hours_to_next": 381,
+    "minutes_to_next": 50,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 12.1%",
+      "1527.339 Yrs or 381 Hrs 50 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-28T09:54:00",
+    "time": "9:54 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 78.8,
+    "g_level": 18,
+    "g_percent": 32.8,
+    "years_to_next": 1085.02,
+    "hours_to_next": 271,
+    "minutes_to_next": 15,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "G18 at 32.8%",
+      "1085.020 Yrs or 271 Hrs 15 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-28T19:33:00",
+    "time": "7:33 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 79.6,
+    "g_level": 18,
+    "g_percent": 43.6,
+    "years_to_next": 909.673,
+    "hours_to_next": 227,
+    "minutes_to_next": 25,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 43.6%",
+      "909.673 Yrs or 227 Hrs 25 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-28T19:49:00",
+    "time": "7:49 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 80.1,
+    "g_level": 18,
+    "g_percent": 50.6,
+    "years_to_next": 797.003,
+    "hours_to_next": 199,
+    "minutes_to_next": 15,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 50.6%",
+      "797.003 Yrs or 199 Hrs 15 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-29T19:15:00",
+    "time": "7:15 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 81.4,
+    "g_level": 18,
+    "g_percent": 66.5,
+    "years_to_next": 487.794,
+    "hours_to_next": 121,
+    "minutes_to_next": 56,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 66.5%",
+      "487.794 Yrs or 121 Hrs 56 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-30T21:56:00",
+    "time": "9:56 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 82.7,
+    "g_level": 18,
+    "g_percent": 83.7,
+    "years_to_next": 210.531,
+    "hours_to_next": 52,
+    "minutes_to_next": 37,
+    "next_milestone": "G19",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G18 at 83.7%",
+      "210.531 Yrs or 52 Hrs 37 Min to G19"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-01-31T19:49:00",
+    "time": "7:49 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 83.9,
+    "g_level": 19,
+    "g_percent": 0.24,
+    "years_to_next": 1338.461,
+    "hours_to_next": 334,
+    "minutes_to_next": 37,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 0.24%",
+      "1338.461 Yrs or 334 Hrs 37 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-01T20:43:00",
+    "time": "8:43 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 85.4,
+    "g_level": 19,
+    "g_percent": 18.8,
+    "years_to_next": 1090.102,
+    "hours_to_next": 272,
+    "minutes_to_next": 31,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 18.8%",
+      "1090.102 Yrs or 272 Hrs 31 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-02T22:22:00",
+    "time": "10:22 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 86.8,
+    "g_level": 19,
+    "g_percent": 36.2,
+    "years_to_next": 856.222,
+    "hours_to_next": 214,
+    "minutes_to_next": 3,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 36.2%",
+      "856.222 Yrs or 214 Hrs 3 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-03T21:39:00",
+    "time": "9:39 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 88.0,
+    "g_level": 19,
+    "g_percent": 52.4,
+    "years_to_next": 638.08,
+    "hours_to_next": 159,
+    "minutes_to_next": 31,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 52.4%",
+      "638.080 Yrs or 159 Hrs 31 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-04T18:45:00",
+    "time": "6:45 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 89.3,
+    "g_level": 19,
+    "g_percent": 68.9,
+    "years_to_next": 416.913,
+    "hours_to_next": 104,
+    "minutes_to_next": 13,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 68.9%",
+      "416.913 Yrs or 104 Hrs 13 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-05T20:40:00",
+    "time": "8:40 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 91.4,
+    "g_level": 19,
+    "g_percent": 94.5,
+    "years_to_next": 74.146,
+    "hours_to_next": 18,
+    "minutes_to_next": 32,
+    "next_milestone": "G20",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G19 at 94.5%",
+      "74.146 Yrs or 18 Hrs 32 Min to G20"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-06T19:53:00",
+    "time": "7:53 PM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 92.7,
+    "g_level": 20,
+    "g_percent": 11.4,
+    "years_to_next": 1233.586,
+    "hours_to_next": 308,
+    "minutes_to_next": 24,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "After Reset, Pills, Respires",
+      "G20 at 11.4%",
+      "1233.586 Yrs or 308 Hrs 24 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-08T00:52:00",
+    "time": "12:52 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 94.2,
+    "g_level": 20,
+    "g_percent": 29.5,
+    "years_to_next": 982.006,
+    "hours_to_next": 245,
+    "minutes_to_next": 30,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "G20 at 29.5%",
+      "982.006 Yrs or 245 Hrs 30 Min to G21"
+    ],
+    "is_predicted": false
+  },
+  {
+    "date": "2026-02-09T08:53:00",
+    "time": "8:53 AM",
+    "stage_name": "Eternal Late",
+    "stage_percent": 95.9,
+    "g_level": 20,
+    "g_percent": 49.4,
+    "years_to_next": 616.458,
+    "hours_to_next": 154,
+    "minutes_to_next": 6,
+    "next_milestone": "G21",
+    "is_breakthrough": false,
+    "notes": [
+      "G20 at 49.4%",
+      "616.458 Yrs or 154 Hrs 6 Min to G21"
+    ],
+    "is_predicted": false
+  }
+]

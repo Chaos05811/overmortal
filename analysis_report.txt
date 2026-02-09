@@ -1,0 +1,38 @@
+============================================================
+OVERMORTAL PROGRESSION ANALYSIS REPORT
+============================================================
+
+OVERALL PROGRESS:
+  Started: January 31, 2026
+  Latest: May 23, 2026
+  Total Days Tracked: 113
+  Current Stage: Celestial Late (0.6%)
+  Current G Level: G1 (36.0%)
+
+STAGE PROGRESSION:
+  Celestial Early:
+    Duration: 49 days
+    Progress: 0.0% → 98.0%
+    Avg Daily Progress: 2.000%
+  Celestial Middle:
+    Duration: 63 days
+    Progress: 0.1% → 99.0%
+    Avg Daily Progress: 1.570%
+  Celestial Late:
+    Duration: 1 days
+    Progress: 0.6% → 0.6%
+
+RECENT PROGRESSION (Last 7 days):
+  Period: 109 days
+  Progress: 8.3% → 0.6%
+  Rate: -0.071% per day
+
+EFFICIENCY BY STAGE:
+  Celestial Early:
+    Hours per 1% progress: 11.93
+    Progress per day: 2.011%
+  Celestial Middle:
+    Hours per 1% progress: 14.55
+    Progress per day: 1.649%
+
+============================================================
