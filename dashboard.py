@@ -254,15 +254,15 @@ def compute_analytics(entries):
     }
 
 
-def generate_stars_css(count=200):
-    """Generate random star positions for the background."""
+def generate_stars_css(count=80):
+    """Generate random star positions for the background (subtle, static)."""
     sm = ', '.join(
-        f'{random.randint(1, 2000)}px {random.randint(1, 2000)}px rgba(255,255,255,{round(random.uniform(0.3, 0.9), 2)})'
+        f'{random.randint(1, 3000)}px {random.randint(1, 3000)}px rgba(255,255,255,{round(random.uniform(0.08, 0.25), 2)})'
         for _ in range(count)
     )
     md = ', '.join(
-        f'{random.randint(1, 2000)}px {random.randint(1, 2000)}px rgba(255,255,255,{round(random.uniform(0.5, 1), 2)})'
-        for _ in range(count // 3)
+        f'{random.randint(1, 3000)}px {random.randint(1, 3000)}px rgba(255,255,255,{round(random.uniform(0.15, 0.4), 2)})'
+        for _ in range(count // 4)
     )
     return sm, md
 
@@ -322,10 +322,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 /* ===== STARS ===== */
-#stars-sm,#stars-md{position:fixed;top:0;left:0;width:2000px;height:2000px;pointer-events:none;z-index:0}
-#stars-sm{background:transparent;box-shadow:/*__STARS_SM__*/;animation:drift 120s linear infinite}
-#stars-md{background:transparent;box-shadow:/*__STARS_MD__*/;animation:drift 80s linear infinite}
-@keyframes drift{from{transform:translateY(0)}to{transform:translateY(-2000px)}}
+#stars-sm,#stars-md{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0}
+#stars-sm{background:transparent;box-shadow:/*__STARS_SM__*/}
+#stars-md{background:transparent;box-shadow:/*__STARS_MD__*/}
 
 /* ===== RESET & BASE ===== */
 *{margin:0;padding:0;box-sizing:border-box}
