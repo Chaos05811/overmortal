@@ -20,7 +20,7 @@ Commands:
 import argparse
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, date
 
 def check_dependencies():
     """Check if required dependencies are installed"""
@@ -166,6 +166,84 @@ def run_visualization(data_file: str = "progression_data.json", output_dir: str 
         return False
 
 
+def add_entry(log_file: str = "prog.txt"):
+    """Add a new progression entry to the log file via interactive prompts."""
+    print("\n" + "=" * 60)
+    print("ADD NEW PROGRESSION ENTRY")
+    print("=" * 60 + "\n")
+
+    # --- Date ---
+    today = date.today()
+    default_date = today.strftime("%B %d")  # e.g. "February 09"
+    date_input = input(f"Date [{default_date}]: ").strip()
+    if not date_input:
+        date_input = default_date
+
+    # --- Time ---
+    now = datetime.now()
+    default_time = now.strftime("%I:%M %p").lstrip("0")  # e.g. "8:53 AM"
+    time_input = input(f"Time [{default_time}]: ").strip()
+    if not time_input:
+        time_input = default_time
+
+    # --- Realm Phase ---
+    realm_phase = input("Realm Phase (e.g. Eternal Late): ").strip()
+    if not realm_phase:
+        print("Realm Phase is required. Aborting.")
+        return False
+
+    # --- Overall % ---
+    overall_pct = input("Overall % (e.g. 95.9): ").strip()
+    if not overall_pct:
+        print("Overall % is required. Aborting.")
+        return False
+
+    # Build header line:  "February 09, 8:53 AM - Eternal Late (95.9%)"
+    header = f"{date_input}, {time_input} - {realm_phase} ({overall_pct}%)"
+
+    # --- Optional action / context ---
+    action = input("Action/context line (e.g. After Reset, Pills, Respires) [skip]: ").strip()
+
+    # --- Grade status ---
+    grade = input("Grade status (e.g. G20 at 49.4%  OR  bt to G5 at 1.6%) [skip]: ").strip()
+
+    # --- Time remaining ---
+    time_remaining = input("Time remaining (e.g. 616.458 Yrs or 154 Hrs 6 Min to G21) [skip]: ").strip()
+
+    # --- Optional prediction / EST note ---
+    prediction = input("EST / prediction note [skip]: ").strip()
+
+    # Assemble entry
+    lines = [header]
+    if action:
+        lines.append(action)
+    if grade:
+        lines.append(grade)
+    if time_remaining:
+        lines.append(time_remaining)
+    if prediction:
+        lines.append(prediction)
+
+    entry_text = "\n".join(lines)
+
+    # Preview
+    print("\n--- Preview ---")
+    print(entry_text)
+    print("--- End Preview ---\n")
+
+    confirm = input("Append this entry? [Y/n]: ").strip().lower()
+    if confirm in ("n", "no"):
+        print("Entry discarded.")
+        return False
+
+    # Append to file
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write("\n" + entry_text + "\n")
+
+    print(f"Entry appended to {log_file}")
+    return True
+
+
 def run_all_pipeline(log_file: str = "progression_log.txt"):
     """Run complete analysis pipeline"""
     print("\n" + "="*60)
@@ -209,10 +287,11 @@ def interactive_mode():
         print("  4. Generate visualizations")
         print("  5. Run complete pipeline (parse + analyze + visualize)")
         print("  6. Generate text report only")
+        print("  7. Add new progression entry")
         print("  0. Exit")
         print()
         
-        choice = input("Enter your choice (0-6): ").strip()
+        choice = input("Enter your choice (0-7): ").strip()
         
         if choice == '0':
             print("Goodbye!")
@@ -238,6 +317,10 @@ def interactive_mode():
         
         elif choice == '6':
             run_analysis()
+        
+        elif choice == '7':
+            log_file = input("Enter log file path [prog.txt]: ").strip() or "prog.txt"
+            add_entry(log_file)
         
         else:
             print("Invalid choice. Please try again.")
@@ -269,7 +352,7 @@ Examples:
     parser.add_argument(
         'command',
         nargs='?',
-        choices=['extract', 'parse', 'analyze', 'visualize', 'all', 'report'],
+        choices=['extract', 'parse', 'analyze', 'visualize', 'all', 'report', 'add'],
         help='Command to run (omit for interactive mode)'
     )
     
@@ -319,6 +402,9 @@ Examples:
     
     elif args.command == 'report':
         run_analysis()
+
+    elif args.command == 'add':
+        add_entry(args.log if args.log != 'progression_log.txt' else 'prog.txt')
 
 
 if __name__ == "__main__":

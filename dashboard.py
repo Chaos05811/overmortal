@@ -8,11 +8,13 @@ interactive web dashboard as a single HTML file.
 
 import json
 import os
+import sys
 import webbrowser
 import random
-from datetime import datetime, timedelta
+from datetime import datetime, date, timedelta
 from collections import defaultdict
 from log_parser import LogParser
+from flask import Flask, send_file, request, jsonify
 
 STAGE_ORDER = [
     'Celestial Early', 'Celestial Middle', 'Celestial Late',
@@ -285,25 +287,103 @@ def generate_dashboard(analytics, output_file='dashboard.html'):
 
 
 # ======================================================================= #
+#   FLASK SERVER
+# ======================================================================= #
+
+LOG_FILE = "prog.txt"
+DASHBOARD_FILE = "dashboard.html"
+
+app = Flask(__name__)
+
+
+def rebuild_dashboard():
+    """Parse log, compute analytics, regenerate dashboard.html."""
+    parser = LogParser(LOG_FILE)
+    entries = parser.parse()
+    analytics = compute_analytics(entries)
+    generate_dashboard(analytics, DASHBOARD_FILE)
+    return len(entries)
+
+
+@app.route("/")
+def serve_dashboard():
+    """Serve the dashboard HTML."""
+    if not os.path.exists(DASHBOARD_FILE):
+        rebuild_dashboard()
+    return send_file(DASHBOARD_FILE)
+
+
+@app.route("/api/add-entry", methods=["POST"])
+def api_add_entry():
+    """Append a new entry to prog.txt and regenerate the dashboard."""
+    data = request.get_json(force=True)
+
+    realm_phase = data.get("realm_phase", "").strip()
+    overall_pct = data.get("overall_pct", "").strip()
+
+    if not realm_phase:
+        return jsonify({"error": "Realm Phase is required"}), 400
+    if not overall_pct:
+        return jsonify({"error": "Overall % is required"}), 400
+
+    # Defaults for date/time
+    today = date.today()
+    now = datetime.now()
+    default_date = today.strftime("%B %d")
+    h, m = now.hour, now.minute
+    ampm = "AM" if h < 12 else "PM"
+    h = h % 12 or 12
+    default_time = f"{h}:{m:02d} {ampm}"
+
+    entry_date = data.get("date", "").strip() or default_date
+    entry_time = data.get("time", "").strip() or default_time
+
+    # Build entry lines
+    header = f"{entry_date}, {entry_time} - {realm_phase} ({overall_pct}%)"
+    lines = [header]
+
+    action = data.get("action", "").strip()
+    grade = data.get("grade", "").strip()
+    time_remaining = data.get("time_remaining", "").strip()
+    prediction = data.get("prediction", "").strip()
+
+    if action:
+        lines.append(action)
+    if grade:
+        lines.append(grade)
+    if time_remaining:
+        lines.append(time_remaining)
+    if prediction:
+        lines.append(prediction)
+
+    entry_text = "\n".join(lines)
+
+    # Append to log file
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write("\n" + entry_text + "\n")
+
+    # Regenerate dashboard
+    count = rebuild_dashboard()
+
+    return jsonify({"ok": True, "entry": entry_text, "total_entries": count})
+
+
+# ======================================================================= #
 #   MAIN
 # ======================================================================= #
 
 def main():
+    # Build on startup
     print("Parsing prog.txt...")
-    parser = LogParser("prog.txt")
-    entries = parser.parse()
-    print(f"  -> {len(entries)} entries parsed")
+    count = rebuild_dashboard()
+    print(f"  -> {count} entries parsed, dashboard.html generated")
 
-    print("Computing analytics...")
-    analytics = compute_analytics(entries)
-
-    print("Generating dashboard...")
-    out = generate_dashboard(analytics)
-    print(f"  -> saved to {out}")
-
-    abs_path = os.path.abspath(out)
-    print(f"Opening {abs_path} ...")
-    webbrowser.open(f'file://{abs_path}')
+    # Open browser and start server
+    port = 5050
+    print(f"\nStarting server at http://localhost:{port}")
+    print("Press Ctrl+C to stop.\n")
+    webbrowser.open(f"http://localhost:{port}")
+    app.run(host="0.0.0.0", port=port, debug=False)
 
 
 # ======================================================================= #
@@ -469,10 +549,41 @@ tr:hover td{background:rgba(255,255,255,.02);color:var(--t1)}
 .fade-in{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}
 .fade-in.visible{opacity:1;transform:translateY(0)}
 
+/* ===== ADD ENTRY BUTTON & MODAL ===== */
+.nav-add-btn{padding:6px 16px;border-radius:8px;font-size:.82rem;font-weight:600;cursor:pointer;transition:.2s;
+  background:linear-gradient(135deg,var(--accent),#d97706);color:#000;border:none;font-family:inherit}
+.nav-add-btn:hover{transform:scale(1.05);box-shadow:0 0 16px var(--ag)}
+
+.modal-overlay{display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);
+  align-items:center;justify-content:center}
+.modal-overlay.open{display:flex}
+.modal{background:var(--bg2);border:1px solid var(--bh);border-radius:var(--rl);padding:32px;width:90%;max-width:520px;
+  position:relative;box-shadow:0 24px 80px rgba(0,0,0,.6)}
+.modal-title{font-size:1.3rem;font-weight:800;margin-bottom:20px;
+  background:linear-gradient(135deg,var(--accent),#fcd34d);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.modal-close{position:absolute;top:16px;right:16px;background:none;border:none;color:var(--t3);font-size:1.3rem;cursor:pointer;transition:.2s}
+.modal-close:hover{color:var(--t1)}
+.form-group{margin-bottom:14px}
+.form-group label{display:block;font-size:.78rem;font-weight:600;color:var(--t2);margin-bottom:4px;text-transform:uppercase;letter-spacing:.03em}
+.form-group input,.form-group select{width:100%;background:var(--card);border:1px solid var(--border);color:var(--t1);
+  padding:10px 14px;border-radius:10px;font:inherit;font-size:.88rem;outline:none;transition:.2s}
+.form-group input:focus,.form-group select:focus{border-color:var(--ce);box-shadow:0 0 0 3px rgba(96,165,250,.15)}
+.form-group input::placeholder{color:var(--t3)}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.form-hint{font-size:.7rem;color:var(--t3);margin-top:2px}
+.form-submit{width:100%;padding:12px;border:none;border-radius:10px;font:inherit;font-size:.92rem;font-weight:700;cursor:pointer;
+  background:linear-gradient(135deg,var(--accent),#d97706);color:#000;transition:.2s;margin-top:8px}
+.form-submit:hover{transform:translateY(-1px);box-shadow:0 8px 24px var(--ag)}
+.form-submit:disabled{opacity:.5;cursor:not-allowed;transform:none}
+.form-msg{text-align:center;margin-top:10px;font-size:.82rem;font-weight:500;min-height:20px}
+.form-msg.success{color:#34d399}
+.form-msg.error{color:#f87171}
+
 @media(max-width:640px){
   .stats-grid{grid-template-columns:repeat(2,1fr)}
   .hero h1{font-size:2rem}
   .journey-path{gap:4px}
+  .form-row{grid-template-columns:1fr}
 }
 </style>
 </head>
@@ -492,6 +603,7 @@ tr:hover td{background:rgba(255,255,255,.02);color:var(--t1)}
       <a href="#analytics">Analytics</a>
       <a href="#milestones">Milestones</a>
       <a href="#data">Data</a>
+      <button class="nav-add-btn" onclick="openAddModal()">+ Add Entry</button>
     </div>
   </div>
 </nav>
@@ -603,6 +715,64 @@ tr:hover td{background:rgba(255,255,255,.02);color:var(--t1)}
     </div>
   </div>
 </section>
+
+<!-- Add Entry Modal -->
+<div class="modal-overlay" id="add-modal">
+  <div class="modal">
+    <button class="modal-close" onclick="closeAddModal()">&times;</button>
+    <div class="modal-title">Add New Entry</div>
+    <form id="add-form" onsubmit="submitEntry(event)">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Date</label>
+          <input type="text" id="f-date" placeholder="February 09">
+          <div class="form-hint">Defaults to today</div>
+        </div>
+        <div class="form-group">
+          <label>Time</label>
+          <input type="text" id="f-time" placeholder="8:53 AM">
+          <div class="form-hint">Defaults to now</div>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Realm Phase</label>
+          <select id="f-realm">
+            <option value="">Select...</option>
+            <option value="Celestial Early">Celestial Early</option>
+            <option value="Celestial Middle">Celestial Middle</option>
+            <option value="Celestial Late">Celestial Late</option>
+            <option value="Eternal Early">Eternal Early</option>
+            <option value="Eternal Middle">Eternal Middle</option>
+            <option value="Eternal Late">Eternal Late</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Overall %</label>
+          <input type="text" id="f-pct" placeholder="95.9">
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Action / Context <span style="color:var(--t3)">(optional)</span></label>
+        <input type="text" id="f-action" placeholder="After Reset, Pills, Respires">
+      </div>
+      <div class="form-group">
+        <label>Grade Status <span style="color:var(--t3)">(optional)</span></label>
+        <input type="text" id="f-grade" placeholder="G20 at 49.4%  or  bt to G5 at 1.6%">
+      </div>
+      <div class="form-group">
+        <label>Time Remaining <span style="color:var(--t3)">(optional)</span></label>
+        <input type="text" id="f-remaining" placeholder="616.458 Yrs or 154 Hrs 6 Min to G21">
+      </div>
+      <div class="form-group">
+        <label>EST / Prediction <span style="color:var(--t3)">(optional)</span></label>
+        <input type="text" id="f-prediction" placeholder="predicted by ChatGpt">
+      </div>
+      <button type="submit" class="form-submit" id="f-submit">Add Entry</button>
+      <div class="form-msg" id="f-msg"></div>
+    </form>
+  </div>
+</div>
 
 <footer class="footer">
   Generated on <span id="gen-date"></span> &bull; Overmortal Progression Tracker
@@ -990,6 +1160,76 @@ function initObserver(){
     entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')});
   },{threshold:.1});
   document.querySelectorAll('.fade-in').forEach(el=>obs.observe(el));
+}
+
+// ====== ADD ENTRY MODAL ======
+function openAddModal(){
+  const modal=document.getElementById('add-modal');
+  modal.classList.add('open');
+  // Set defaults
+  const now=new Date();
+  const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const day=String(now.getDate()).padStart(2,'0');
+  document.getElementById('f-date').placeholder=months[now.getMonth()]+' '+day;
+  let h=now.getHours(),m=now.getMinutes(),ampm=h>=12?'PM':'AM';
+  h=h%12||12;
+  document.getElementById('f-time').placeholder=h+':'+String(m).padStart(2,'0')+' '+ampm;
+  // Pre-select current realm
+  const cur=D.summary.current_stage;
+  if(cur){document.getElementById('f-realm').value=cur}
+  document.getElementById('f-msg').textContent='';
+  document.getElementById('f-msg').className='form-msg';
+}
+
+function closeAddModal(){
+  document.getElementById('add-modal').classList.remove('open');
+}
+
+document.getElementById('add-modal').addEventListener('click',e=>{
+  if(e.target===e.currentTarget)closeAddModal();
+});
+
+async function submitEntry(e){
+  e.preventDefault();
+  const btn=document.getElementById('f-submit');
+  const msg=document.getElementById('f-msg');
+  btn.disabled=true;
+  msg.textContent='Saving...';
+  msg.className='form-msg';
+
+  const realm=document.getElementById('f-realm').value;
+  const pct=document.getElementById('f-pct').value.trim();
+  if(!realm){msg.textContent='Realm Phase is required';msg.className='form-msg error';btn.disabled=false;return}
+  if(!pct){msg.textContent='Overall % is required';msg.className='form-msg error';btn.disabled=false;return}
+
+  const body={
+    date:document.getElementById('f-date').value.trim(),
+    time:document.getElementById('f-time').value.trim(),
+    realm_phase:realm,
+    overall_pct:pct,
+    action:document.getElementById('f-action').value.trim(),
+    grade:document.getElementById('f-grade').value.trim(),
+    time_remaining:document.getElementById('f-remaining').value.trim(),
+    prediction:document.getElementById('f-prediction').value.trim(),
+  };
+
+  try{
+    const res=await fetch('/api/add-entry',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const data=await res.json();
+    if(res.ok){
+      msg.textContent='Entry added! Reloading dashboard...';
+      msg.className='form-msg success';
+      setTimeout(()=>window.location.reload(),1200);
+    }else{
+      msg.textContent=data.error||'Failed to add entry';
+      msg.className='form-msg error';
+      btn.disabled=false;
+    }
+  }catch(err){
+    msg.textContent='Network error — is the server running?';
+    msg.className='form-msg error';
+    btn.disabled=false;
+  }
 }
 
 // ====== INIT ======
